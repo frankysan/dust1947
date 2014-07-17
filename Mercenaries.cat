@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="aa73a42e-9e96-e495-1bd8-3a8ef8a0e5a1" revision="1" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="2" battleScribeVersion="1.14b" name="Mercenaries" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entries>
+    <entry id="adebf386-210b-0e89-d00b-63a56bef4240" name="Red Yana" points="14.0" categoryId="c4dc95fb-d71a-2f02-0816-e91921e30294" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="31a32c58-20b6-929a-d9c5-7154644ec1c6" name="Sisters of Demolition" points="8.0" categoryId="46b61540-0a40-0cd6-3e08-48a4aacaeedd" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+  </entries>
+  <rules/>
+  <links/>
+  <sharedEntries/>
+  <sharedEntryGroups/>
+  <sharedRules/>
+  <sharedProfiles/>
+</catalogue>
