@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="e37e48f3-bb87-e20a-cf08-355a001c0e6a" revision="2" battleScribeVersion="1.14b" name="Dust Tactics/Battlefield" authorName="katfude" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="e37e48f3-bb87-e20a-cf08-355a001c0e6a" revision="3" battleScribeVersion="1.14b" name="Dust Tactics/Battlefield" authorName="katfude" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <forceTypes>
     <forceType id="97f291bb-995f-0bfb-0b04-3644de836546" name="Main Faction" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
       <categories>
@@ -68,7 +68,7 @@
       </categories>
       <forceTypes/>
     </forceType>
-    <forceType id="098c1d71-ee65-110f-a2ee-85ec31e8a353" name="Captured Walkers" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
+    <forceType id="098c1d71-ee65-110f-a2ee-85ec31e8a353" name="Captured Walkers" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
       <categories>
         <category id="5b653694-3ee6-eada-5846-7c02129bc43a" name="Allies" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
           <modifiers/>
@@ -83,5 +83,79 @@
       <forceTypes/>
     </forceType>
   </forceTypes>
-  <profileTypes/>
+  <profileTypes>
+    <profileType id="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Weapons">
+      <characteristics>
+        <characteristic id="382f5f95-0919-db20-9901-aa54bc211abf" name="Range"/>
+        <characteristic id="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1"/>
+        <characteristic id="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2"/>
+        <characteristic id="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3"/>
+        <characteristic id="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4"/>
+        <characteristic id="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1"/>
+        <characteristic id="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2"/>
+        <characteristic id="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3"/>
+        <characteristic id="a27828e2-0dc0-c181-1699-be334623891d" name="V4"/>
+        <characteristic id="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5"/>
+        <characteristic id="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6"/>
+        <characteristic id="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7"/>
+        <characteristic id="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1"/>
+        <characteristic id="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2"/>
+        <characteristic id="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3"/>
+      </characteristics>
+    </profileType>
+    <profileType id="41b56042-fab9-47e0-0812-0af86fc4caba" name="Unit">
+      <characteristics>
+        <characteristic id="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move"/>
+        <characteristic id="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move"/>
+      </characteristics>
+    </profileType>
+    <profileType id="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Heroes">
+      <characteristics>
+        <characteristic id="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track"/>
+        <characteristic id="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move"/>
+        <characteristic id="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move"/>
+      </characteristics>
+    </profileType>
+    <profileType id="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Vehicle">
+      <characteristics>
+        <characteristic id="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track"/>
+        <characteristic id="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move"/>
+        <characteristic id="7efff746-66c0-c275-304c-6339ff7da914" name="March Move"/>
+      </characteristics>
+    </profileType>
+    <profileType id="51c4cbbb-feba-838a-7356-102e85a51f40" name="Vehicle Weapons">
+      <characteristics>
+        <characteristic id="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount"/>
+        <characteristic id="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range"/>
+        <characteristic id="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1"/>
+        <characteristic id="a645204b-207d-2884-31bf-8052544ebe0f" name="S2"/>
+        <characteristic id="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3"/>
+        <characteristic id="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4"/>
+        <characteristic id="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1"/>
+        <characteristic id="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2"/>
+        <characteristic id="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3"/>
+        <characteristic id="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4"/>
+        <characteristic id="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5"/>
+        <characteristic id="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6"/>
+        <characteristic id="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7"/>
+        <characteristic id="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1"/>
+        <characteristic id="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2"/>
+        <characteristic id="cc1450a8-c61a-8715-5533-2175e5923685" name="A3"/>
+      </characteristics>
+    </profileType>
+    <profileType id="1501a0c7-39e2-22f9-345a-06ffa5c8ac55" name="Aircraft">
+      <characteristics>
+        <characteristic id="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track"/>
+        <characteristic id="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move"/>
+        <characteristic id="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move"/>
+      </characteristics>
+    </profileType>
+    <profileType id="4c7e5a31-9ebb-047b-c784-ddb4ae29b228" name="Support Weapons/Fortifications">
+      <characteristics>
+        <characteristic id="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track"/>
+        <characteristic id="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move"/>
+        <characteristic id="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move"/>
+      </characteristics>
+    </profileType>
+  </profileTypes>
 </gameSystem>
