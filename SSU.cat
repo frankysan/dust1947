@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="3" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="4" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="0048f150-bdb3-f27b-2319-b83017026cea" name="Air Ambulance" points="8.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries/>
@@ -12,6 +12,7 @@
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="8"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="6"/>
             <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="12"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -71,6 +72,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V6"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -104,6 +106,7 @@
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="8"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="6"/>
             <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="12"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -236,6 +239,7 @@
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="8"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="6"/>
             <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="12"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -257,6 +261,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="3"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="7"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -318,6 +323,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="7"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V5"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -342,6 +348,7 @@
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="8"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="6"/>
             <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="12"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -459,6 +466,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="3"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -517,6 +525,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -589,6 +598,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -663,6 +673,7 @@
             <characteristic characteristicId="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track" value="4"/>
             <characteristic characteristicId="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move" value="1"/>
             <characteristic characteristicId="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move" value="3"/>
+            <characteristic characteristicId="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -753,6 +764,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V6"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -798,6 +810,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -890,6 +903,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="5"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="3"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -911,6 +925,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V7"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -968,6 +983,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1569,6 +1585,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1882,6 +1899,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="3"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1964,6 +1982,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V7"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2028,6 +2047,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V6"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2098,6 +2118,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="7"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V5"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2135,6 +2156,7 @@
             <characteristic characteristicId="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track" value="4"/>
             <characteristic characteristicId="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move" value="-"/>
             <characteristic characteristicId="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move" value="-"/>
+            <characteristic characteristicId="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2212,6 +2234,7 @@
             <characteristic characteristicId="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track" value="4"/>
             <characteristic characteristicId="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move" value="-"/>
             <characteristic characteristicId="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move" value="-"/>
+            <characteristic characteristicId="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2252,6 +2275,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2321,6 +2345,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2418,6 +2443,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2498,6 +2524,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2573,6 +2600,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2626,6 +2654,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2711,6 +2740,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="3"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="5"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2779,6 +2809,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2843,6 +2874,7 @@
             <characteristic characteristicId="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track" value="3"/>
             <characteristic characteristicId="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move" value="2"/>
             <characteristic characteristicId="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move" value="3"/>
+            <characteristic characteristicId="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2932,6 +2964,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="3"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="5"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3041,6 +3074,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3117,6 +3151,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3176,6 +3211,7 @@
                     <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
                     <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
                     <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+                    <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
@@ -3240,6 +3276,7 @@
                     <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
                     <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
                     <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+                    <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S2"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
@@ -3306,6 +3343,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V6"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3368,6 +3406,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3461,6 +3500,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3543,6 +3583,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3625,6 +3666,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="3"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3708,6 +3750,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3777,6 +3820,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3822,6 +3866,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3885,6 +3930,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3951,6 +3997,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4017,6 +4064,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4050,6 +4098,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4104,6 +4153,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4160,6 +4210,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4215,6 +4266,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V6"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4280,6 +4332,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4367,6 +4420,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="6"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="3"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="6"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4413,6 +4467,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="5"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4467,6 +4522,39 @@
         </link>
       </links>
     </entry>
+    <entry id="25a3d572-465f-7cc8-d948-7f56723f6d7f" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="7affa730-c7bb-4bfc-ebee-4da665ae229e" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Auto Grenade Launcher" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="3"/>
+            <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="*/1"/>
+            <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="*/1"/>
+            <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="*/1"/>
+            <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="*/1"/>
+            <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="2/2"/>
+            <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="2/1"/>
+            <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/1"/>
+            <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
+            <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
+            <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
+            <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
+            <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
+            <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
+            <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="cd0eca83-8d57-c0f4-d45d-dc069f52879b" targetId="c79dbccd-9418-9187-8ca7-ff1b7c5e3ec7" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
     <entry id="2a237296-f81a-f06b-365d-1874c2de0edc" name="Commissar (Machine Gunner)" points="3.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries>
         <entry id="6433bcd0-64a5-105f-c535-7a7bed7ef9c8" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
@@ -4490,6 +4578,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4541,6 +4630,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4580,6 +4670,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4589,6 +4680,18 @@
           <modifiers/>
         </link>
         <link id="8e1f079f-eb46-492e-d5f7-44a7d49dae1a" targetId="b606c0d8-87b3-3aaa-8687-da9d0795d958" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="51749540-614b-ca50-52e3-12c843421a73" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="798d7e57-2d5b-0f7f-fbe0-3825d201db28" targetId="7d13ebb4-6b52-81c9-410d-9c0b57fcd81d" linkType="profile">
           <modifiers/>
         </link>
       </links>
@@ -4683,6 +4786,36 @@
       </profiles>
       <links/>
     </entry>
+    <entry id="45d444c3-2411-fbb9-7602-488e9ab3dcf8" name="DSHK 12.7mm TSH" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="16ad385e-c2cf-88a5-5566-d9714d907cce" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="DSHK 12.7mm TSH" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
+            <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="6"/>
+            <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="5/2"/>
+            <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="5/2"/>
+            <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="4/1"/>
+            <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="3/1"/>
+            <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="3/2"/>
+            <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="2/1"/>
+            <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="1/1"/>
+            <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="-"/>
+            <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="-"/>
+            <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
+            <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
+            <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="2/2"/>
+            <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="1/2"/>
+            <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="1/1"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links/>
+    </entry>
     <entry id="d0eb7c2b-2d9d-4e27-a619-03427d7e2ca8" name="Heavy Tesla Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
@@ -4716,6 +4849,35 @@
           <modifiers/>
         </link>
       </links>
+    </entry>
+    <entry id="0734192a-c3d9-8a2e-864e-3312ed5217f5" name="Machete" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="8a03b31c-91d8-4733-aff8-4acf44ce4749" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Machete" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="C"/>
+            <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="1/2"/>
+            <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="1/2"/>
+            <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/2"/>
+            <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/1"/>
+            <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="-"/>
+            <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="-"/>
+            <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
+            <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
+            <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
+            <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
+            <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
+            <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
+            <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
+            <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links/>
     </entry>
     <entry id="6fbf0d11-7f50-b128-3c21-bdc826d72cbd" name="Napalm Bomb" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries/>
@@ -4852,79 +5014,17 @@
         </link>
       </links>
     </entry>
-    <entry id="25a3d572-465f-7cc8-d948-7f56723f6d7f" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles>
-        <profile id="7affa730-c7bb-4bfc-ebee-4da665ae229e" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Auto Grenade Launcher" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="3"/>
-            <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="*/1"/>
-            <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="*/1"/>
-            <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="*/1"/>
-            <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="*/1"/>
-            <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="2/2"/>
-            <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="2/1"/>
-            <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/1"/>
-            <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
-            <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
-            <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
-            <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
-            <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
-            <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
-            <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links>
-        <link id="cd0eca83-8d57-c0f4-d45d-dc069f52879b" targetId="c79dbccd-9418-9187-8ca7-ff1b7c5e3ec7" linkType="rule">
-          <modifiers/>
-        </link>
-      </links>
-    </entry>
-    <entry id="51749540-614b-ca50-52e3-12c843421a73" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="b54b4318-1b9c-d95b-4b0f-b3e17f94ef58" name="Steel Glove" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
       <rules/>
       <profiles/>
       <links>
-        <link id="798d7e57-2d5b-0f7f-fbe0-3825d201db28" targetId="7d13ebb4-6b52-81c9-410d-9c0b57fcd81d" linkType="profile">
+        <link id="2c43aca8-91bb-5ad1-09fa-2f9657221bb4" targetId="2a45bf8d-11a0-cc09-fdcd-74c8a5b9616e" linkType="profile">
           <modifiers/>
         </link>
       </links>
-    </entry>
-    <entry id="0734192a-c3d9-8a2e-864e-3312ed5217f5" name="Machete" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles>
-        <profile id="8a03b31c-91d8-4733-aff8-4acf44ce4749" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Machete" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="C"/>
-            <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="1/2"/>
-            <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="1/2"/>
-            <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/2"/>
-            <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/1"/>
-            <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="-"/>
-            <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="-"/>
-            <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
-            <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
-            <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
-            <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
-            <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
-            <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
-            <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
-            <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links/>
     </entry>
     <entry id="9a1681b6-887b-5b1d-df8a-9de5f05cdbf3" name="TT-46 Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries/>
@@ -4967,48 +5067,6 @@
         </link>
       </links>
     </entry>
-    <entry id="b54b4318-1b9c-d95b-4b0f-b3e17f94ef58" name="Steel Glove" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles/>
-      <links>
-        <link id="2c43aca8-91bb-5ad1-09fa-2f9657221bb4" targetId="2a45bf8d-11a0-cc09-fdcd-74c8a5b9616e" linkType="profile">
-          <modifiers/>
-        </link>
-      </links>
-    </entry>
-    <entry id="45d444c3-2411-fbb9-7602-488e9ab3dcf8" name="DSHK 12.7mm TSH" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles>
-        <profile id="16ad385e-c2cf-88a5-5566-d9714d907cce" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="DSHK 12.7mm TSH" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
-            <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="6"/>
-            <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="5/2"/>
-            <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="5/2"/>
-            <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="4/1"/>
-            <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="3/1"/>
-            <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="3/2"/>
-            <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="2/1"/>
-            <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="1/1"/>
-            <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="-"/>
-            <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="-"/>
-            <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
-            <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
-            <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="2/2"/>
-            <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="1/2"/>
-            <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="1/1"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links/>
-    </entry>
   </sharedEntries>
   <sharedEntryGroups>
     <entryGroup id="b6b969ca-e94b-cb3d-d9b1-0cd362c084e4" name="Fortifcation" defaultEntryId="746a5871-82be-eeca-5c88-dcbcc44575fe" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
@@ -5036,112 +5094,36 @@
     </entryGroup>
   </sharedEntryGroups>
   <sharedRules>
-    <rule id="be9fd004-73b3-2e4b-b17a-b60e9d2e3cae" name="Airmobile" hidden="false" page="0">
-      <description>Can be carried by an Airlifter.</description>
-      <modifiers/>
-    </rule>
-    <rule id="99c489b7-ea71-5372-9de4-7ba51ee873b9" name="Damage Resilient" hidden="false" page="0">
-      <description>Roll a die for each point of Damage done to miniature. On a Symbol result, a point of Damage is cancelled. Does not apply to units joined.</description>
-      <modifiers/>
-    </rule>
-    <rule id="46c97944-c64d-b1d4-8bbe-a3616e9f0148" name="Smoke Launchers" hidden="false" page="0">
-      <description>Once per game, take Smoke Launchers Action to place Smoke on Unit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="ee8f8c17-5aef-a911-31d0-7666a45167f8" name="Salvo" hidden="false" page="0">
-      <description>May double number of dice rolled. If do so, remove loaded token. Weapon cannot attack until Unit regains Loaded token by performing a Reload Action.</description>
-      <modifiers/>
-    </rule>
-    <rule id="95d36776-45af-89f0-f757-ed863dee6eb2" name="Tesla" hidden="false" page="0">
-      <description>Place Stunned token on Unit hit by this weapon. Unit must perform a Nothing Action as its next Action, removing all Stunned tokens.</description>
-      <modifiers/>
-    </rule>
-    <rule id="b013d4c2-c4b8-aaaf-10e9-fbcf77e77abf" name="Tank Riders (6)" hidden="false" page="0">
-      <description>Can carry passengers on its outside. Tank Riders are eliminated on a Target result if vehicle is hit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="6ea1a40a-d958-df22-cef8-c5fd8fe1a61e" name="Tracked" hidden="false" page="0">
-      <description>Roll when moving through Terrain, halting on a score of Target.</description>
-      <modifiers/>
-    </rule>
-    <rule id="c79dbccd-9418-9187-8ca7-ff1b7c5e3ec7" name="Grenade" hidden="false" page="0">
-      <description>Target Infantry get no Cover Save from this weapon (but still have an Infantry Save).</description>
-      <modifiers/>
-    </rule>
-    <rule id="4102a968-4a48-fd5e-31f2-750417d504a8" name="Flame" hidden="false" page="0">
-      <description>Targets get no Saves from this weapon and are Suppressed.</description>
-      <modifiers/>
-    </rule>
-    <rule id="041b184f-a2d2-c5ef-ef3a-a001cc3dcb8e" name="Steel Guard" hidden="false" page="0">
-      <description>Steel Guard never has a Cover Save, but always passes their Infantry Save on a roll of Shield as well as Symbol. Only a Steel Guard Hero may Join a Steel Guard Unit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="44cf982a-afe6-916c-c872-b709a753ecda" name="Command Squad" hidden="false" page="0">
-      <description>May perform Special Actions with its Officer, Medic, or Mechanic to reactivate, heal, repair, or rearm Units, or to summon reinforcements.</description>
-      <modifiers/>
-    </rule>
-    <rule id="8888111b-b930-6500-f648-35583674f47b" name="Follow Me" hidden="false" page="0">
-      <description>Can take a Follow Me Special Action once per turn. All friendly Infantry Units with Infantry Amror 1 or 2 within Range 2 (20cm or 8&quot;) and in Line of Sight roll a die. On a Smybol result they take an immediate Move Action with a Move rating of 2.</description>
-      <modifiers/>
-    </rule>
-    <rule id="bd0fc83e-1fcb-8581-425c-18a67b3ec6b3" name="Officer" hidden="false" page="0">
-      <description>May take Officer Special Actions to reactivate or rearm their troops, or call in reinforcements.</description>
-      <modifiers/>
-    </rule>
-    <rule id="34d8f521-75d3-208c-3fa8-8884635c51fe" name="Red Banner" hidden="false" page="0">
-      <description>All friendly Infantry Units within Range 2 (20cm or 8&quot;) and in Line of Sight roll three dice when Rallying.</description>
-      <modifiers/>
-    </rule>
-    <rule id="52b9da12-312b-3fa6-5b43-5959ffeef885" name="Charge" hidden="false" page="0">
-      <description>May take a free Attack Action using Close-Combat Weapons after performing a March Move Action.</description>
-      <modifiers/>
-    </rule>
-    <rule id="bf5b61cd-3eaf-af25-2963-88ab2bfaf5be" name="Expert" hidden="false" page="0">
-      <description>Hits on rolls of Target as well as Symbol. Does not apply to Units Joined.</description>
-      <modifiers/>
-    </rule>
     <rule id="cad76d74-8a69-39df-94ed-e8fb6df6e615" name="Ace Pilot" hidden="false" page="0">
       <description>May mount a Vehicle, using her skills while in the Vehicle. Roll a die when the Vehicle Activates. On a Symbol or Target the Vehicle gains a third Action for this Activation.</description>
       <modifiers/>
     </rule>
-    <rule id="066ae12c-b837-f325-2be7-76008ae3b9fd" name="Fighting Spirit" hidden="false" page="0">
-      <description>Once per game, hit on rolls of Target as well as Symbol. Applies to Units Joined as well.</description>
+    <rule id="4a209cfb-33c3-e16e-b15d-55628574fabc" name="Advanced Reactive Fire" hidden="false" page="0">
+      <description>Can attempt a Reactive Attack at up to Range 6, counting Shield and Symbol when rolling for number of Actions. Does not apply to Units Joined.</description>
       <modifiers/>
     </rule>
-    <rule id="edd3fc37-2ee7-ca3b-b0f0-ae2fff336d97" name="Take Aim" hidden="false" page="0">
-      <description>Hits on Target as well as Symbol when using Ranged weapons to make a Sustained Attack. Does not apply to Units Joined.</description>
+    <rule id="11e4620e-e258-1bce-9405-d3d4a6ca7253" name="Air Assault" hidden="false" page="0">
+      <description>Can be carried by an Airlifter, and can Activate after the Air Lifter carrying it to Dismount and Move on its own.</description>
       <modifiers/>
     </rule>
-    <rule id="4f22a905-fbac-04c0-8eb7-bc0e0afa11e3" name="Pilot" hidden="false" page="0">
-      <description>May mount a Vehicle, using his skills while in the Vehicle.</description>
+    <rule id="be34669e-4b9a-d25f-0ca2-ff3abb1142d7" name="Airlifter" hidden="false" page="0">
+      <description>Can carry an Air Assault or Airmobile Unit.</description>
       <modifiers/>
     </rule>
-    <rule id="50b56224-a757-1611-f4f4-03bed92775ab" name="Infantry Ace" hidden="false" page="0">
-      <description>Roll a die when the Infantry Ace activates. On a Symbol or Target she (and any Unit she has Joined) gains a third Action for this Activation.</description>
+    <rule id="be9fd004-73b3-2e4b-b17a-b60e9d2e3cae" name="Airmobile" hidden="false" page="0">
+      <description>Can be carried by an Airlifter.</description>
       <modifiers/>
     </rule>
-    <rule id="0fd9e4e3-3adf-3369-82b5-b7d6a06c8529" name="Lucky" hidden="false" page="0">
-      <description>Once per game, may re-roll all of the dice for one weapon during their Attack action.</description>
+    <rule id="5937adec-9fb2-3040-3a83-ac8674e15925" name="Artillery" hidden="false" page="0">
+      <description>Can fire under control of an Artillery Observer.</description>
       <modifiers/>
     </rule>
-    <rule id="2fa804b8-488e-1d42-2191-f023a17a84e8" name="Flying" hidden="false" page="0">
-      <description>Ignore terrain.</description>
+    <rule id="d77257ca-133d-f5ed-62e9-fea6fb9b6d8b" name="Artillery Observer" hidden="false" page="0">
+      <description>Can shoot a target in Line of Sight with an Artillery Weapon from another Unit that has not yet Activated, even if the other Unit does not have Line of Sight. The other Unit is counted as Activated after making its Attack.</description>
       <modifiers/>
     </rule>
-    <rule id="5c2d1d08-6084-ce2a-6bca-081929311dd1" name="Superhuman" hidden="false" page="0">
-      <description>Passes Infantry Save on Shield as well as Symbol but never has Cover Save. May not Join a Unit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="d31adae5-73e4-36cc-652e-fc734f419a44" name="Radiation" hidden="false" page="0">
-      <description>Targets re-roll successful Saves against this weapon.</description>
-      <modifiers/>
-    </rule>
-    <rule id="02f07081-9bb1-24f9-3901-d2c17d899c4d" name="Defensive Tactics" hidden="false" page="0">
-      <description>Gains Damage Resilient when in Cover. Applies to Units Joined as well.</description>
-      <modifiers/>
-    </rule>
-    <rule id="6e4d956d-15ba-c456-fa93-8b199778a4ef" name="Commissar" hidden="false" page="0">
-      <description>Must be attached to an Infantry Unit for the whole game. A Unit may only have one Commissar attached to it.</description>
+    <rule id="3055ccf0-a891-fa26-f8d6-ff245a12999a" name="Assault Shield" hidden="false" page="0">
+      <description>When a Hit from a Close-Combat weapon is assigned to a miniature with an Assault Shield, roll a die. On a Symbol, cancel the Hit.</description>
       <modifiers/>
     </rule>
     <rule id="b606c0d8-87b3-3aaa-8687-da9d0795d958" name="Brave" hidden="false" page="0">
@@ -5152,92 +5134,168 @@
       <description>Take Camouflage Action. If in Cover, only Units within Range 3 have Line of Sight to this Unit until it takes an Action other than Move, Artillery Observer, or Nothing. Start the game Camouflaged. Does not apply to Units Joined.</description>
       <modifiers/>
     </rule>
-    <rule id="f699391f-68a8-b3f9-5b53-e333c313f8da" name="Scout" hidden="false" page="0">
-      <description>Take a March Move Action as the first Action of game, leaving one further Action for that Activation.</description>
+    <rule id="52b9da12-312b-3fa6-5b43-5959ffeef885" name="Charge" hidden="false" page="0">
+      <description>May take a free Attack Action using Close-Combat Weapons after performing a March Move Action.</description>
       <modifiers/>
     </rule>
-    <rule id="8e48c9ef-6334-c24b-aa45-3b88f46347e0" name="Sniper" hidden="false" page="0">
-      <description>Choose the enemy Soldiers hit with this weapon.</description>
+    <rule id="44cf982a-afe6-916c-c872-b709a753ecda" name="Command Squad" hidden="false" page="0">
+      <description>May perform Special Actions with its Officer, Medic, or Mechanic to reactivate, heal, repair, or rearm Units, or to summon reinforcements.</description>
       <modifiers/>
     </rule>
-    <rule id="d77257ca-133d-f5ed-62e9-fea6fb9b6d8b" name="Artillery Observer" hidden="false" page="0">
-      <description>Can shoot a target in Line of Sight with an Artillery Weapon from another Unit that has not yet Activated, even if the other Unit does not have Line of Sight. The other Unit is counted as Activated after making its Attack.</description>
-      <modifiers/>
-    </rule>
-    <rule id="68631de2-19de-7a51-a26f-bb0643d88c40" name="Support Weapon" hidden="false" page="0">
-      <description>Support Weapons have three of four Soldiers on the same base. Survivng Soldiers choose which weapons to use for each attack.</description>
-      <modifiers/>
-    </rule>
-    <rule id="5937adec-9fb2-3040-3a83-ac8674e15925" name="Artillery" hidden="false" page="0">
-      <description>Can fire under control of an Artillery Observer.</description>
-      <modifiers/>
-    </rule>
-    <rule id="7219685f-271b-6a14-6786-fcb24d6a2057" name="Strongpoint" hidden="false" page="0">
-      <description>Must be deployed in a Strongpoint or Bunker. Unit has a Strongpoint included in its points cost. You may upgrade the Strongpoint to a Bunker for an additional +5 points. Cannot move.</description>
-      <modifiers/>
-    </rule>
-    <rule id="998434b1-9e7a-e800-c6d0-42fabd510937" name="Power Scope" hidden="false" page="0">
-      <description>Hits on Target as well as Symbol when making a Sustained Attack.</description>
-      <modifiers/>
-    </rule>
-    <rule id="5db0b858-5fe2-22da-6713-a8f85d42ae9f" name="Helicopter" hidden="false" page="0">
-      <description>Unlike other Aircraft, a Helicopter does not have to take a Move Action, allowing it to take Sustained Attack Actions.</description>
-      <modifiers/>
-    </rule>
-    <rule id="1935806f-6aa1-be05-aef8-1b98f1caca1c" name="Passengers (6)" hidden="false" page="0">
-      <description>Can carry six Infantry with Armour 1 or 2 or three Infantry with Armour 3 or 4.</description>
-      <modifiers/>
-    </rule>
-    <rule id="cf15873b-d929-7ddf-7039-35df17ab8c4f" name="Volley" hidden="false" page="0">
-      <description>May fire any or all remaining bombs and rockets at the same target in a Single Attack.</description>
-      <modifiers/>
-    </rule>
-    <rule id="be34669e-4b9a-d25f-0ca2-ff3abb1142d7" name="Airlifter" hidden="false" page="0">
-      <description>Can carry an Air Assault or Airmobile Unit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="11e4620e-e258-1bce-9405-d3d4a6ca7253" name="Air Assault" hidden="false" page="0">
-      <description>Can be carried by an Airlifter, and can Activate after the Air Lifter carrying it to Dismount and Move on its own.</description>
-      <modifiers/>
-    </rule>
-    <rule id="ff269639-1fe7-5f50-59af-0af07d682f8a" name="Engineer Vehicle" hidden="false" page="0">
-      <description>Take an Engineering Action to destroy fortifications and obstacles.</description>
-      <modifiers/>
-    </rule>
-    <rule id="72a99362-2c34-3c1c-abe0-dbcecc20a602" name="Cutting" hidden="false" page="0">
-      <description>When hits, roll again scoring another hit on Symbol. Continue rolling until fail to hit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="967ece5f-9b3c-65cf-2ae1-6b294367c50c" name="Reload" hidden="false" page="0">
-      <description>When this weapon performs an attack, remove the Unit&apos;s Loaded token. This weapon cannot attack until the Unit regains its Loaded token by performing a Reload Action.</description>
-      <modifiers/>
-    </rule>
-    <rule id="d658cbb7-b7f9-4cdf-d63d-eef5a0902ee8" name="Grapple" hidden="false" page="0">
-      <description>Target hit by this weapon loses one Action next Activation (unless this Unit Activates first).</description>
-      <modifiers/>
-    </rule>
-    <rule id="99c4c7d0-07bc-bdf7-f6a2-8a11534c2da3" name="Mechanic" hidden="false" page="0">
-      <description>Perform a Makeshift Repair Action to roll five dice. Cancel one point of damage on adjacent vehicle for each Symbol rolled. Does not apply to Units Joined.</description>
+    <rule id="6e4d956d-15ba-c456-fa93-8b199778a4ef" name="Commissar" hidden="false" page="0">
+      <description>Must be attached to an Infantry Unit for the whole game. A Unit may only have one Commissar attached to it.</description>
       <modifiers/>
     </rule>
     <rule id="fc091858-5ace-3c07-0f66-2a5871afab3f" name="Crew" hidden="false" page="0">
       <description>May attack with either vehicle or crew weapons.</description>
       <modifiers/>
     </rule>
-    <rule id="4a209cfb-33c3-e16e-b15d-55628574fabc" name="Advanced Reactive Fire" hidden="false" page="0">
-      <description>Can attempt a Reactive Attack at up to Range 6, counting Shield and Symbol when rolling for number of Actions. Does not apply to Units Joined.</description>
+    <rule id="72a99362-2c34-3c1c-abe0-dbcecc20a602" name="Cutting" hidden="false" page="0">
+      <description>When hits, roll again scoring another hit on Symbol. Continue rolling until fail to hit.</description>
+      <modifiers/>
+    </rule>
+    <rule id="99c489b7-ea71-5372-9de4-7ba51ee873b9" name="Damage Resilient" hidden="false" page="0">
+      <description>Roll a die for each point of Damage done to miniature. On a Symbol result, a point of Damage is cancelled. Does not apply to units joined.</description>
+      <modifiers/>
+    </rule>
+    <rule id="02f07081-9bb1-24f9-3901-d2c17d899c4d" name="Defensive Tactics" hidden="false" page="0">
+      <description>Gains Damage Resilient when in Cover. Applies to Units Joined as well.</description>
+      <modifiers/>
+    </rule>
+    <rule id="ff269639-1fe7-5f50-59af-0af07d682f8a" name="Engineer Vehicle" hidden="false" page="0">
+      <description>Take an Engineering Action to destroy fortifications and obstacles.</description>
+      <modifiers/>
+    </rule>
+    <rule id="bf5b61cd-3eaf-af25-2963-88ab2bfaf5be" name="Expert" hidden="false" page="0">
+      <description>Hits on rolls of Target as well as Symbol. Does not apply to Units Joined.</description>
+      <modifiers/>
+    </rule>
+    <rule id="066ae12c-b837-f325-2be7-76008ae3b9fd" name="Fighting Spirit" hidden="false" page="0">
+      <description>Once per game, hit on rolls of Target as well as Symbol. Applies to Units Joined as well.</description>
+      <modifiers/>
+    </rule>
+    <rule id="4102a968-4a48-fd5e-31f2-750417d504a8" name="Flame" hidden="false" page="0">
+      <description>Targets get no Saves from this weapon and are Suppressed.</description>
+      <modifiers/>
+    </rule>
+    <rule id="2fa804b8-488e-1d42-2191-f023a17a84e8" name="Flying" hidden="false" page="0">
+      <description>Ignore terrain.</description>
+      <modifiers/>
+    </rule>
+    <rule id="8888111b-b930-6500-f648-35583674f47b" name="Follow Me" hidden="false" page="0">
+      <description>Can take a Follow Me Special Action once per turn. All friendly Infantry Units with Infantry Amror 1 or 2 within Range 2 (20cm or 8&quot;) and in Line of Sight roll a die. On a Smybol result they take an immediate Move Action with a Move rating of 2.</description>
+      <modifiers/>
+    </rule>
+    <rule id="d658cbb7-b7f9-4cdf-d63d-eef5a0902ee8" name="Grapple" hidden="false" page="0">
+      <description>Target hit by this weapon loses one Action next Activation (unless this Unit Activates first).</description>
+      <modifiers/>
+    </rule>
+    <rule id="c79dbccd-9418-9187-8ca7-ff1b7c5e3ec7" name="Grenade" hidden="false" page="0">
+      <description>Target Infantry get no Cover Save from this weapon (but still have an Infantry Save).</description>
+      <modifiers/>
+    </rule>
+    <rule id="5db0b858-5fe2-22da-6713-a8f85d42ae9f" name="Helicopter" hidden="false" page="0">
+      <description>Unlike other Aircraft, a Helicopter does not have to take a Move Action, allowing it to take Sustained Attack Actions.</description>
+      <modifiers/>
+    </rule>
+    <rule id="50b56224-a757-1611-f4f4-03bed92775ab" name="Infantry Ace" hidden="false" page="0">
+      <description>Roll a die when the Infantry Ace activates. On a Symbol or Target she (and any Unit she has Joined) gains a third Action for this Activation.</description>
+      <modifiers/>
+    </rule>
+    <rule id="0fd9e4e3-3adf-3369-82b5-b7d6a06c8529" name="Lucky" hidden="false" page="0">
+      <description>Once per game, may re-roll all of the dice for one weapon during their Attack action.</description>
+      <modifiers/>
+    </rule>
+    <rule id="99c4c7d0-07bc-bdf7-f6a2-8a11534c2da3" name="Mechanic" hidden="false" page="0">
+      <description>Perform a Makeshift Repair Action to roll five dice. Cancel one point of damage on adjacent vehicle for each Symbol rolled. Does not apply to Units Joined.</description>
       <modifiers/>
     </rule>
     <rule id="137defa6-16af-9208-e836-d0fa69e87b61" name="Medevac" hidden="false" page="0">
       <description>Take a Medevac Action on a friendly Infantry Unit within Range 1. Roll a die for each Soldier eliminated from the Unit. Each roll of Symbol returns one of Soldier to the Unit.</description>
       <modifiers/>
     </rule>
-    <rule id="5705e6d8-f761-38e3-33a2-da6a8186bf4d" name="Wheeled" hidden="false" page="0">
-      <description>Roll when moving through Terrain, halting on a score of Target or Shield.</description>
+    <rule id="bd0fc83e-1fcb-8581-425c-18a67b3ec6b3" name="Officer" hidden="false" page="0">
+      <description>May take Officer Special Actions to reactivate or rearm their troops, or call in reinforcements.</description>
       <modifiers/>
     </rule>
-    <rule id="3055ccf0-a891-fa26-f8d6-ff245a12999a" name="Assault Shield" hidden="false" page="0">
-      <description>When a Hit from a Close-Combat weapon is assigned to a miniature with an Assault Shield, roll a die. On a Symbol, cancel the Hit.</description>
+    <rule id="1935806f-6aa1-be05-aef8-1b98f1caca1c" name="Passengers (6)" hidden="false" page="0">
+      <description>Can carry six Infantry with Armour 1 or 2 or three Infantry with Armour 3 or 4.</description>
+      <modifiers/>
+    </rule>
+    <rule id="4f22a905-fbac-04c0-8eb7-bc0e0afa11e3" name="Pilot" hidden="false" page="0">
+      <description>May mount a Vehicle, using his skills while in the Vehicle.</description>
+      <modifiers/>
+    </rule>
+    <rule id="998434b1-9e7a-e800-c6d0-42fabd510937" name="Power Scope" hidden="false" page="0">
+      <description>Hits on Target as well as Symbol when making a Sustained Attack.</description>
+      <modifiers/>
+    </rule>
+    <rule id="d31adae5-73e4-36cc-652e-fc734f419a44" name="Radiation" hidden="false" page="0">
+      <description>Targets re-roll successful Saves against this weapon.</description>
+      <modifiers/>
+    </rule>
+    <rule id="34d8f521-75d3-208c-3fa8-8884635c51fe" name="Red Banner" hidden="false" page="0">
+      <description>All friendly Infantry Units within Range 2 (20cm or 8&quot;) and in Line of Sight roll three dice when Rallying.</description>
+      <modifiers/>
+    </rule>
+    <rule id="967ece5f-9b3c-65cf-2ae1-6b294367c50c" name="Reload" hidden="false" page="0">
+      <description>When this weapon performs an attack, remove the Unit&apos;s Loaded token. This weapon cannot attack until the Unit regains its Loaded token by performing a Reload Action.</description>
+      <modifiers/>
+    </rule>
+    <rule id="ee8f8c17-5aef-a911-31d0-7666a45167f8" name="Salvo" hidden="false" page="0">
+      <description>May double number of dice rolled. If do so, remove loaded token. Weapon cannot attack until Unit regains Loaded token by performing a Reload Action.</description>
+      <modifiers/>
+    </rule>
+    <rule id="f699391f-68a8-b3f9-5b53-e333c313f8da" name="Scout" hidden="false" page="0">
+      <description>Take a March Move Action as the first Action of game, leaving one further Action for that Activation.</description>
+      <modifiers/>
+    </rule>
+    <rule id="46c97944-c64d-b1d4-8bbe-a3616e9f0148" name="Smoke Launchers" hidden="false" page="0">
+      <description>Once per game, take Smoke Launchers Action to place Smoke on Unit.</description>
+      <modifiers/>
+    </rule>
+    <rule id="8e48c9ef-6334-c24b-aa45-3b88f46347e0" name="Sniper" hidden="false" page="0">
+      <description>Choose the enemy Soldiers hit with this weapon.</description>
+      <modifiers/>
+    </rule>
+    <rule id="041b184f-a2d2-c5ef-ef3a-a001cc3dcb8e" name="Steel Guard" hidden="false" page="0">
+      <description>Steel Guard never has a Cover Save, but always passes their Infantry Save on a roll of Shield as well as Symbol. Only a Steel Guard Hero may Join a Steel Guard Unit.</description>
+      <modifiers/>
+    </rule>
+    <rule id="7219685f-271b-6a14-6786-fcb24d6a2057" name="Strongpoint" hidden="false" page="0">
+      <description>Must be deployed in a Strongpoint or Bunker. Unit has a Strongpoint included in its points cost. You may upgrade the Strongpoint to a Bunker for an additional +5 points. Cannot move.</description>
+      <modifiers/>
+    </rule>
+    <rule id="5c2d1d08-6084-ce2a-6bca-081929311dd1" name="Superhuman" hidden="false" page="0">
+      <description>Passes Infantry Save on Shield as well as Symbol but never has Cover Save. May not Join a Unit.</description>
+      <modifiers/>
+    </rule>
+    <rule id="68631de2-19de-7a51-a26f-bb0643d88c40" name="Support Weapon" hidden="false" page="0">
+      <description>Support Weapons have three of four Soldiers on the same base. Survivng Soldiers choose which weapons to use for each attack.</description>
+      <modifiers/>
+    </rule>
+    <rule id="edd3fc37-2ee7-ca3b-b0f0-ae2fff336d97" name="Take Aim" hidden="false" page="0">
+      <description>Hits on Target as well as Symbol when using Ranged weapons to make a Sustained Attack. Does not apply to Units Joined.</description>
+      <modifiers/>
+    </rule>
+    <rule id="b013d4c2-c4b8-aaaf-10e9-fbcf77e77abf" name="Tank Riders (6)" hidden="false" page="0">
+      <description>Can carry passengers on its outside. Tank Riders are eliminated on a Target result if vehicle is hit.</description>
+      <modifiers/>
+    </rule>
+    <rule id="95d36776-45af-89f0-f757-ed863dee6eb2" name="Tesla" hidden="false" page="0">
+      <description>Place Stunned token on Unit hit by this weapon. Unit must perform a Nothing Action as its next Action, removing all Stunned tokens.</description>
+      <modifiers/>
+    </rule>
+    <rule id="6ea1a40a-d958-df22-cef8-c5fd8fe1a61e" name="Tracked" hidden="false" page="0">
+      <description>Roll when moving through Terrain, halting on a score of Target.</description>
+      <modifiers/>
+    </rule>
+    <rule id="cf15873b-d929-7ddf-7039-35df17ab8c4f" name="Volley" hidden="false" page="0">
+      <description>May fire any or all remaining bombs and rockets at the same target in a Single Attack.</description>
+      <modifiers/>
+    </rule>
+    <rule id="5705e6d8-f761-38e3-33a2-da6a8186bf4d" name="Wheeled" hidden="false" page="0">
+      <description>Roll when moving through Terrain, halting on a score of Target or Shield.</description>
       <modifiers/>
     </rule>
   </sharedRules>

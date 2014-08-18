@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="8ef2fe75-bde5-cb08-a904-1e2fe601c053" revision="3" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="Axis" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="8ef2fe75-bde5-cb08-a904-1e2fe601c053" revision="4" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="Axis" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="856b8e56-884f-7495-aed5-dab41631de1b" name="AB-47" points="9.0" categoryId="bbcb75d0-5169-4b14-1ca9-dff1d9b4996e" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries>
@@ -77,6 +77,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="7"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -126,8 +127,9 @@
       <profiles>
         <profile id="e6842fa4-d5e2-c71e-99b1-474a9dbc91ed" profileTypeId="41b56042-fab9-47e0-0812-0af86fc4caba" name="African Lions" hidden="false" page="0">
           <characteristics>
-            <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move"/>
+            <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -297,6 +299,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="3"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -314,6 +317,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -383,6 +387,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -473,6 +478,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -536,6 +542,7 @@
             <characteristic characteristicId="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track" value="3"/>
             <characteristic characteristicId="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move" value="2"/>
             <characteristic characteristicId="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move" value="3"/>
+            <characteristic characteristicId="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour" value="S3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -596,6 +603,7 @@
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
             <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="24"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -652,6 +660,7 @@
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
             <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="24"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -685,6 +694,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -766,6 +776,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -826,6 +837,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -859,6 +871,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -916,6 +929,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -972,6 +986,7 @@
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
             <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="24"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1040,6 +1055,7 @@
             <characteristic characteristicId="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track" value="4"/>
             <characteristic characteristicId="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move" value="-"/>
             <characteristic characteristicId="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move" value="-"/>
+            <characteristic characteristicId="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1082,6 +1098,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1138,6 +1155,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="8"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V5"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1171,6 +1189,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1232,6 +1251,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="3"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="3"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1256,6 +1276,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="7"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1324,6 +1345,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1376,6 +1398,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1428,6 +1451,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1487,6 +1511,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1540,7 +1565,17 @@
       <entryGroups/>
       <modifiers/>
       <rules/>
-      <profiles/>
+      <profiles>
+        <profile id="6e21547b-9e19-642c-42e7-02e3ca4bab67" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Hermann (Trop)" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
+            <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
+            <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
       <links>
         <link id="7884b48e-4315-55d1-9075-d02e3ef85213" targetId="baec5a9f-15fa-359e-25a1-d880d5158025" linkType="rule">
           <modifiers/>
@@ -1592,6 +1627,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="7"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V5"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1648,6 +1684,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="7"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V5"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1696,8 +1733,9 @@
       <profiles>
         <profile id="ec23effd-f451-2ce3-f005-873fc5ecc43e" profileTypeId="41b56042-fab9-47e0-0812-0af86fc4caba" name="Kampfaffen (Gorillas)" hidden="false" page="0">
           <characteristics>
-            <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move"/>
+            <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1725,6 +1763,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="7"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1790,6 +1829,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="8"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="3"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V6"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1845,6 +1885,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="10"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="3"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V7"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1879,6 +1920,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="3"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -1967,6 +2009,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2056,6 +2099,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2151,6 +2195,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2219,6 +2264,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2274,6 +2320,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2363,6 +2410,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V4"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2418,6 +2466,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="5"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2475,6 +2524,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="6"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="3"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2536,6 +2586,7 @@
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
             <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="24"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2588,6 +2639,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="7"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2649,6 +2701,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="7"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2714,6 +2767,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2741,6 +2795,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="3"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2802,6 +2857,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="5"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2888,6 +2944,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2933,6 +2990,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -2997,6 +3055,7 @@
             <characteristic characteristicId="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track" value="4"/>
             <characteristic characteristicId="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move" value="1"/>
             <characteristic characteristicId="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move" value="3"/>
+            <characteristic characteristicId="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3063,6 +3122,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3124,6 +3184,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3176,6 +3237,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3245,6 +3307,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3297,6 +3360,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="5"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3395,6 +3459,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3453,6 +3518,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="8"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="3"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V6"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3508,6 +3574,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="7"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V5"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3560,6 +3627,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="5"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3632,6 +3700,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3680,6 +3749,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3697,6 +3767,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="3"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3765,6 +3836,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3798,6 +3870,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3849,6 +3922,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3900,6 +3974,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -3936,6 +4011,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4001,6 +4077,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4070,6 +4147,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="6"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4168,6 +4246,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="5"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4227,6 +4306,7 @@
             <characteristic characteristicId="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track" value="3"/>
             <characteristic characteristicId="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move" value="2"/>
             <characteristic characteristicId="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move" value="3"/>
+            <characteristic characteristicId="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour" value="S3"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4286,6 +4366,7 @@
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="3"/>
             <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4360,6 +4441,7 @@
             <characteristic characteristicId="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track" value="4"/>
             <characteristic characteristicId="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move" value="-"/>
             <characteristic characteristicId="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move" value="-"/>
+            <characteristic characteristicId="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4422,6 +4504,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="7"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V5"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4478,6 +4561,7 @@
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="8"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V5"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4533,6 +4617,7 @@
           <characteristics>
             <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="2"/>
             <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
+            <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4547,29 +4632,30 @@
   <rules/>
   <links/>
   <sharedEntries>
-    <entry id="41de81a7-3234-d48e-8857-ce2b71a49488" name="Luger Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="25d00cc3-420d-b98d-be21-cb633053880f" name="Four 20mm MG 47" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
       <rules/>
       <profiles>
-        <profile id="9702029d-8ef6-789c-2081-2cbd31112b89" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Luger Pistol" hidden="false" page="0">
+        <profile id="9c2d01c6-9059-0191-147d-e08b4cc08a7c" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Four 20mm MG 47" hidden="false" page="0">
           <characteristics>
-            <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="2"/>
-            <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="3/1"/>
-            <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="2/1"/>
-            <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/1"/>
-            <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="-"/>
-            <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="2/1"/>
-            <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="-"/>
-            <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
-            <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
-            <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
-            <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
-            <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
-            <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
-            <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
-            <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+            <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
+            <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="2"/>
+            <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="7/2"/>
+            <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="7/2"/>
+            <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="7/2"/>
+            <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="6/2"/>
+            <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="4/3"/>
+            <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="4/2"/>
+            <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="3/2"/>
+            <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="1/1"/>
+            <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="-"/>
+            <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
+            <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
+            <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="8/2"/>
+            <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="5/2"/>
+            <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="3/1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4609,75 +4695,29 @@
         </link>
       </links>
     </entry>
-    <entry id="3dd6dd45-ab2c-836a-09ab-1ea78a9ad2ce" name="Panzerfaust 100 (HE)" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="41de81a7-3234-d48e-8857-ce2b71a49488" name="Luger Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
       <rules/>
       <profiles>
-        <profile id="1e6440a9-5872-8701-0abd-ce2a110bb914" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Panzerfaust 100 (HE)" hidden="false" page="0">
+        <profile id="9702029d-8ef6-789c-2081-2cbd31112b89" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Luger Pistol" hidden="false" page="0">
           <characteristics>
-            <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="3"/>
-            <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="*/1"/>
-            <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="*/1"/>
-            <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="*/1"/>
-            <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="*/1"/>
-            <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="1/#"/>
-            <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="1/#"/>
-            <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/#"/>
-            <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="1/5"/>
-            <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="1/4"/>
-            <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="1/4"/>
-            <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="1/3"/>
+            <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="2"/>
+            <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="3/1"/>
+            <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="2/1"/>
+            <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/1"/>
+            <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="-"/>
+            <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="2/1"/>
+            <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="-"/>
+            <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
+            <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
+            <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
+            <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
+            <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
             <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
             <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
             <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links>
-        <link id="e57a8f28-bc2f-8771-f0ba-b12b14074f3b" targetId="ed3ed142-a731-8de6-a9dc-8695fd937715" linkType="rule">
-          <modifiers/>
-        </link>
-      </links>
-    </entry>
-    <entry id="692d8fcd-da07-8abc-8443-eea807b1dfd5" name="MG 48" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles/>
-      <links>
-        <link id="7826e29d-eb6d-a966-bf11-a2113f6ecadd" targetId="94caa8b5-2f18-4d0b-a5c3-e2239b7fa327" linkType="profile">
-          <modifiers/>
-        </link>
-      </links>
-    </entry>
-    <entry id="25d00cc3-420d-b98d-be21-cb633053880f" name="Four 20mm MG 47" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles>
-        <profile id="9c2d01c6-9059-0191-147d-e08b4cc08a7c" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Four 20mm MG 47" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
-            <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="2"/>
-            <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="7/2"/>
-            <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="7/2"/>
-            <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="7/2"/>
-            <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="6/2"/>
-            <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="4/3"/>
-            <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="4/2"/>
-            <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="3/2"/>
-            <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="1/1"/>
-            <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="-"/>
-            <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
-            <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
-            <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="8/2"/>
-            <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="5/2"/>
-            <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="3/1"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -4714,36 +4754,6 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="31b150b0-146a-a909-3b72-fe176d164928" name="Twin MG 44Z" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles>
-        <profile id="d2246453-6b7c-1e04-c8b2-b6eaf88c9d8b" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Twin MG 44Z" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
-            <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="6"/>
-            <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="12/1"/>
-            <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="11/1"/>
-            <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="8/1"/>
-            <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="4/1"/>
-            <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="7/1"/>
-            <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="3/1"/>
-            <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="-"/>
-            <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="-"/>
-            <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="-"/>
-            <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
-            <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
-            <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="-"/>
-            <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="-"/>
-            <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="-"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links/>
-    </entry>
     <entry id="b200633b-b1e0-f4cf-c396-2bab54d54b56" name="MG 44 Front" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
@@ -4760,6 +4770,81 @@
             <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="3/1"/>
             <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="4/1"/>
             <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="2/1"/>
+            <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="-"/>
+            <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="-"/>
+            <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="-"/>
+            <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
+            <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
+            <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="-"/>
+            <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="-"/>
+            <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links/>
+    </entry>
+    <entry id="692d8fcd-da07-8abc-8443-eea807b1dfd5" name="MG 48" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="7826e29d-eb6d-a966-bf11-a2113f6ecadd" targetId="94caa8b5-2f18-4d0b-a5c3-e2239b7fa327" linkType="profile">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="3dd6dd45-ab2c-836a-09ab-1ea78a9ad2ce" name="Panzerfaust 100 (HE)" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="1e6440a9-5872-8701-0abd-ce2a110bb914" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Panzerfaust 100 (HE)" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="3"/>
+            <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="*/1"/>
+            <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="*/1"/>
+            <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="*/1"/>
+            <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="*/1"/>
+            <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="1/#"/>
+            <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="1/#"/>
+            <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/#"/>
+            <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="1/5"/>
+            <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="1/4"/>
+            <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="1/4"/>
+            <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="1/3"/>
+            <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
+            <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
+            <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="e57a8f28-bc2f-8771-f0ba-b12b14074f3b" targetId="ed3ed142-a731-8de6-a9dc-8695fd937715" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="31b150b0-146a-a909-3b72-fe176d164928" name="Twin MG 44Z" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="d2246453-6b7c-1e04-c8b2-b6eaf88c9d8b" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Twin MG 44Z" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
+            <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="6"/>
+            <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="12/1"/>
+            <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="11/1"/>
+            <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="8/1"/>
+            <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="4/1"/>
+            <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="7/1"/>
+            <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="3/1"/>
             <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="-"/>
             <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="-"/>
             <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="-"/>
@@ -4801,6 +4886,10 @@
     </entryGroup>
   </sharedEntryGroups>
   <sharedRules>
+    <rule id="31473e4d-1016-0981-c68f-1b94bdd0db0f" name="Ace Air Pilot" hidden="false" page="0">
+      <description>May pilot an Aircraft, using his skills while in the Aircraft. Roll a die when the Aircraft Activates. On a Symbol or Target, the Aircraft gains a third Action for this Activation.</description>
+      <modifiers/>
+    </rule>
     <rule id="f87370dc-5979-8fbe-962a-e75e6b4bbfd2" name="Ace Pilot" hidden="false" page="0">
       <description>May mount a Vehicle, using their skills while in the Vehicle. When the Vehicle Activates, roll a die. On a Symbol or Target Ace Pilot gains a third Action.</description>
       <modifiers/>
@@ -4909,12 +4998,20 @@
       <description>Ignore terrain.</description>
       <modifiers/>
     </rule>
+    <rule id="a7aa32bf-1c27-c4c3-815d-42111c5bb367" name="Gorilla" hidden="false" page="0">
+      <description>Only a Gorilla may Join Gorillas.</description>
+      <modifiers/>
+    </rule>
     <rule id="c70f20c8-528f-08b0-9544-49502913823f" name="Grapple" hidden="false" page="0">
       <description>Target hit by this weapon loses one Action next Activation (unless this Unit Activates first).</description>
       <modifiers/>
     </rule>
     <rule id="ed3ed142-a731-8de6-a9dc-8695fd937715" name="Grenade" hidden="false" page="0">
       <description>Target Infantry get no Cover Save from this weapon (but still have an Infantry Save).</description>
+      <modifiers/>
+    </rule>
+    <rule id="c51d54e4-c32f-eabd-b340-271b37ab31b2" name="Half-Tracked" hidden="false" page="0">
+      <description>Roll when moving through Terrain, halting on a score of Target or Shield.</description>
       <modifiers/>
     </rule>
     <rule id="efc0b057-8b2b-54a5-aabb-5632dd40183c" name="Infantry Ace" hidden="false" page="0">
@@ -4925,16 +5022,20 @@
       <description>When this Hero hits with a Ranged Weapon, roll hits again scoring another hit on Symbol. Continue rolling until re-roll fails to hit. Does not apply to Units Joined.</description>
       <modifiers/>
     </rule>
+    <rule id="72476abb-2ac5-33d2-92b0-fe719cc74362" name="Laser" hidden="false" page="0">
+      <description>When hits, roll again scoring another hit on Symbol. Continue rolling until fail to hit.</description>
+      <modifiers/>
+    </rule>
     <rule id="2da61281-5b2b-b1e4-88eb-223373820054" name="Loner" hidden="false" page="0">
       <description>May not join a Unit.</description>
       <modifiers/>
     </rule>
-    <rule id="da42b81f-fa44-27b2-20f5-fc2a04aac5e0" name="Mechanic" hidden="false" page="0">
-      <description>Perform a Makeshift Repair Action to roll five dice. Cancel one point of damage on adjacent vehicle for each Symbol rolled. Does not apply to Units Joined.</description>
-      <modifiers/>
-    </rule>
     <rule id="a88e32f2-418f-b116-6991-6eb1dc2e64f0" name="Lucky" hidden="false" page="0">
       <description>Once per game, may re-roll all of the dice for one weapon during their Attack action.</description>
+      <modifiers/>
+    </rule>
+    <rule id="da42b81f-fa44-27b2-20f5-fc2a04aac5e0" name="Mechanic" hidden="false" page="0">
+      <description>Perform a Makeshift Repair Action to roll five dice. Cancel one point of damage on adjacent vehicle for each Symbol rolled. Does not apply to Units Joined.</description>
       <modifiers/>
     </rule>
     <rule id="86fc4b25-a319-afdd-4c21-6cfe379a3d0b" name="Move and Fire" hidden="false" page="0">
@@ -4959,6 +5060,10 @@
     </rule>
     <rule id="e573d9c2-1874-6c6b-d801-c6e0f54dba64" name="Reload" hidden="false" page="0">
       <description>When this weapon performs an attack, remove the Unit&apos;s Loaded token. This weapon cannot attack until the Unit regains its Loaded token by performing a Reload Action.</description>
+      <modifiers/>
+    </rule>
+    <rule id="3ea843b6-3360-8856-548a-c2f92da7f469" name="Ressurection" hidden="false" page="0">
+      <description>May take Ressurection Action on a Mindless Zombie Unit within Range 1. Unit rolss a die for each Zombie eliminated from the Unit. Each Symbol returns one Zombie to the Unit.</description>
       <modifiers/>
     </rule>
     <rule id="83cb89fa-314d-3d7c-3195-d9450628a514" name="Salvo" hidden="false" page="0">
@@ -5005,6 +5110,10 @@
       <description>Perform a Tank Head Action to roll five dice. Cancel one point of damage on piloted or adjacent vehicle for each Symbol or Shield rolled. Does not apply to Units Joined.</description>
       <modifiers/>
     </rule>
+    <rule id="166382fe-f3e4-113a-6d40-6b43d3d7076c" name="Tank Riders (6)" hidden="false" page="0">
+      <description>Can carry Passengers on its outside. Tank Riders are eliminated on Target if the vehicle is hit.</description>
+      <modifiers/>
+    </rule>
     <rule id="f7eea8dc-9444-208d-dbe0-5cff1cae9c22" name="Tracked" hidden="false" page="0">
       <description>Roll when moving through Terrain, halting on a score of Target.</description>
       <modifiers/>
@@ -5021,92 +5130,8 @@
       <description>Zombies always pass Infantry Saves on Shield as well as Symbol. Only a Zombie may Join Zombies.</description>
       <modifiers/>
     </rule>
-    <rule id="a7aa32bf-1c27-c4c3-815d-42111c5bb367" name="Gorilla" hidden="false" page="0">
-      <description>Only a Gorilla may Join Gorillas.</description>
-      <modifiers/>
-    </rule>
-    <rule id="72476abb-2ac5-33d2-92b0-fe719cc74362" name="Laser" hidden="false" page="0">
-      <description>When hits, roll again scoring another hit on Symbol. Continue rolling until fail to hit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="31473e4d-1016-0981-c68f-1b94bdd0db0f" name="Ace Air Pilot" hidden="false" page="0">
-      <description>May pilot an Aircraft, using his skills while in the Aircraft. Roll a die when the Aircraft Activates. On a Symbol or Target, the Aircraft gains a third Action for this Activation.</description>
-      <modifiers/>
-    </rule>
-    <rule id="3ea843b6-3360-8856-548a-c2f92da7f469" name="Ressurection" hidden="false" page="0">
-      <description>May take Ressurection Action on a Mindless Zombie Unit within Range 1. Unit rolss a die for each Zombie eliminated from the Unit. Each Symbol returns one Zombie to the Unit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="166382fe-f3e4-113a-6d40-6b43d3d7076c" name="Tank Riders (6)" hidden="false" page="0">
-      <description>Can carry Passengers on its outside. Tank Riders are eliminated on Target if the vehicle is hit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="c51d54e4-c32f-eabd-b340-271b37ab31b2" name="Half-Tracked" hidden="false" page="0">
-      <description>Roll when moving through Terrain, halting on a score of Target or Shield.</description>
-      <modifiers/>
-    </rule>
   </sharedRules>
   <sharedProfiles>
-    <profile id="8fdd3186-e417-7e18-ebc6-db4d8498759e" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Twin MG 44Z" hidden="false" page="0">
-      <characteristics>
-        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="6"/>
-        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="12/1"/>
-        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="11/1"/>
-        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="8/1"/>
-        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="4/1"/>
-        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="7/1"/>
-        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="3/1"/>
-        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
-        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
-        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
-        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
-        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
-        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="3/1"/>
-        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="2/1"/>
-        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
-      </characteristics>
-      <modifiers/>
-    </profile>
-    <profile id="469d8b6d-f5ec-2bd7-b79c-3091c45563fb" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="STG 47 Assault Rifle" hidden="false" page="0">
-      <characteristics>
-        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="4"/>
-        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="4/1"/>
-        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="3/1"/>
-        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="2/1"/>
-        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/1"/>
-        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="2/1"/>
-        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="-"/>
-        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
-        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
-        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
-        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
-        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
-        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="2/1"/>
-        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="1/1"/>
-        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
-      </characteristics>
-      <modifiers/>
-    </profile>
-    <profile id="70704192-3e57-f913-b8d9-9c60636d7030" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Panzerfaust" hidden="false" page="0">
-      <characteristics>
-        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="3"/>
-        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="1/4"/>
-        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="1/4"/>
-        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/4"/>
-        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/4"/>
-        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="1/#"/>
-        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="1/#"/>
-        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/5"/>
-        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="1/4"/>
-        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="1/4"/>
-        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="1/3"/>
-        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="1/3"/>
-        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
-        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
-        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
-      </characteristics>
-      <modifiers/>
-    </profile>
     <profile id="667ca6b2-cec4-f979-ef10-a9cda3d6d629" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Flammenwerfer 44" hidden="false" page="0">
       <characteristics>
         <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="1"/>
@@ -5121,46 +5146,6 @@
         <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="*/2"/>
         <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="*/2"/>
         <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="*/2"/>
-        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
-        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
-        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
-      </characteristics>
-      <modifiers/>
-    </profile>
-    <profile id="94caa8b5-2f18-4d0b-a5c3-e2239b7fa327" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="MG 48" hidden="false" page="0">
-      <characteristics>
-        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="6"/>
-        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="9/1"/>
-        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="8/1"/>
-        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="6/1"/>
-        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="3/1"/>
-        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="5/1"/>
-        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="3/1"/>
-        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
-        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
-        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
-        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
-        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
-        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="3/1"/>
-        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="2/1"/>
-        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
-      </characteristics>
-      <modifiers/>
-    </profile>
-    <profile id="ee19234a-c765-5d3f-da9c-1a1939fa83df" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Panzerschreck" hidden="false" page="0">
-      <characteristics>
-        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range"/>
-        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="1/3"/>
-        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="1/3"/>
-        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/3"/>
-        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/3"/>
-        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="1/#"/>
-        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="1/#"/>
-        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/4"/>
-        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="1/4"/>
-        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="1/3"/>
-        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="1/3"/>
-        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="1/2"/>
         <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
         <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
         <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
@@ -5187,6 +5172,26 @@
       </characteristics>
       <modifiers/>
     </profile>
+    <profile id="94caa8b5-2f18-4d0b-a5c3-e2239b7fa327" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="MG 48" hidden="false" page="0">
+      <characteristics>
+        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="6"/>
+        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="9/1"/>
+        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="8/1"/>
+        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="6/1"/>
+        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="3/1"/>
+        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="5/1"/>
+        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="3/1"/>
+        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
+        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
+        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
+        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
+        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
+        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="3/1"/>
+        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="2/1"/>
+        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
     <profile id="541a6b0f-7a18-5753-4515-50c801630eb3" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="MP 46 Submachine-gun" hidden="false" page="0">
       <characteristics>
         <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="3"/>
@@ -5201,6 +5206,26 @@
         <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value=""/>
         <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value=""/>
         <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
+        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
+        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
+        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="70704192-3e57-f913-b8d9-9c60636d7030" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Panzerfaust" hidden="false" page="0">
+      <characteristics>
+        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="3"/>
+        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="1/4"/>
+        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="1/4"/>
+        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/4"/>
+        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/4"/>
+        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="1/#"/>
+        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="1/#"/>
+        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/5"/>
+        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="1/4"/>
+        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="1/4"/>
+        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="1/3"/>
+        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="1/3"/>
         <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
         <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
         <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
@@ -5223,6 +5248,66 @@
         <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="1/3"/>
         <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
         <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
+        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="ee19234a-c765-5d3f-da9c-1a1939fa83df" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Panzerschreck" hidden="false" page="0">
+      <characteristics>
+        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range"/>
+        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="1/3"/>
+        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="1/3"/>
+        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/3"/>
+        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/3"/>
+        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="1/#"/>
+        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="1/#"/>
+        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/4"/>
+        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="1/4"/>
+        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="1/3"/>
+        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="1/3"/>
+        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="1/2"/>
+        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
+        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
+        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="469d8b6d-f5ec-2bd7-b79c-3091c45563fb" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="STG 47 Assault Rifle" hidden="false" page="0">
+      <characteristics>
+        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="4"/>
+        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="4/1"/>
+        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="3/1"/>
+        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="2/1"/>
+        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/1"/>
+        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="2/1"/>
+        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="-"/>
+        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
+        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
+        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
+        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
+        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
+        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="2/1"/>
+        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="1/1"/>
+        <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="8fdd3186-e417-7e18-ebc6-db4d8498759e" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Twin MG 44Z" hidden="false" page="0">
+      <characteristics>
+        <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="6"/>
+        <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="12/1"/>
+        <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="11/1"/>
+        <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="8/1"/>
+        <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="4/1"/>
+        <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="7/1"/>
+        <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="3/1"/>
+        <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
+        <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
+        <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
+        <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
+        <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
+        <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="3/1"/>
+        <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="2/1"/>
         <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
       </characteristics>
       <modifiers/>

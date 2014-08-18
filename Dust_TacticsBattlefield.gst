@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="e37e48f3-bb87-e20a-cf08-355a001c0e6a" revision="3" battleScribeVersion="1.14b" name="Dust Tactics/Battlefield" authorName="katfude" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="e37e48f3-bb87-e20a-cf08-355a001c0e6a" revision="4" battleScribeVersion="1.14b" name="Dust Tactics/Battlefield" authorName="katfude" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <forceTypes>
     <forceType id="97f291bb-995f-0bfb-0b04-3644de836546" name="Main Faction" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
       <categories>
@@ -107,6 +107,7 @@
       <characteristics>
         <characteristic id="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move"/>
         <characteristic id="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move"/>
+        <characteristic id="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour"/>
       </characteristics>
     </profileType>
     <profileType id="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Heroes">
@@ -114,6 +115,7 @@
         <characteristic id="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track"/>
         <characteristic id="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move"/>
         <characteristic id="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move"/>
+        <characteristic id="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour"/>
       </characteristics>
     </profileType>
     <profileType id="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Vehicle">
@@ -121,6 +123,7 @@
         <characteristic id="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track"/>
         <characteristic id="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move"/>
         <characteristic id="7efff746-66c0-c275-304c-6339ff7da914" name="March Move"/>
+        <characteristic id="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour"/>
       </characteristics>
     </profileType>
     <profileType id="51c4cbbb-feba-838a-7356-102e85a51f40" name="Vehicle Weapons">
@@ -148,6 +151,7 @@
         <characteristic id="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track"/>
         <characteristic id="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move"/>
         <characteristic id="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move"/>
+        <characteristic id="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour"/>
       </characteristics>
     </profileType>
     <profileType id="4c7e5a31-9ebb-047b-c784-ddb4ae29b228" name="Support Weapons/Fortifications">
@@ -155,6 +159,7 @@
         <characteristic id="72c474f9-90b1-5a73-91b5-4c076f0f7cd4" name="Damage Track"/>
         <characteristic id="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move"/>
         <characteristic id="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move"/>
+        <characteristic id="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour"/>
       </characteristics>
     </profileType>
   </profileTypes>
