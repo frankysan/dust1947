@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="4" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="5" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
-    <entry id="0048f150-bdb3-f27b-2319-b83017026cea" name="Air Ambulance" points="8.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="0048f150-bdb3-f27b-2319-b83017026cea" name="Air Ambulance" points="8.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -23,9 +23,9 @@
         </link>
       </links>
     </entry>
-    <entry id="47fffe8d-bfa1-21d6-ba56-83c82ee7a562" name="Aleksandr Vasilevsky" points="27.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="47fffe8d-bfa1-21d6-ba56-83c82ee7a562" name="Aleksandr Vasilevsky" points="27.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="98654df4-9a95-8def-61d5-3945312a4952" name="Twin Tesla Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="98654df4-9a95-8def-61d5-3945312a4952" name="Twin Tesla Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -95,7 +95,7 @@
         </link>
       </links>
     </entry>
-    <entry id="70a0b456-7f24-3836-6c32-6652f5c4f1a3" name="Assaulter" points="11.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="70a0b456-7f24-3836-6c32-6652f5c4f1a3" name="Assaulter" points="11.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -123,12 +123,12 @@
         </link>
       </links>
     </entry>
-    <entry id="31a1fd64-aec7-8d48-eb50-1efd6b11ad18" name="Attack Helicopter" points="0.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="31a1fd64-aec7-8d48-eb50-1efd6b11ad18" name="Attack Helicopter" points="0.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups>
-        <entryGroup id="675b8986-df15-a15b-431b-778b3f77e1db" name="Attack Helicopter" defaultEntryId="2c16020f-a2e1-8b90-afe5-b332b6c1c942" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="675b8986-df15-a15b-431b-778b3f77e1db" name="Attack Helicopter" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="96de189e-85e9-a82b-9efa-56c7b06e5904" name="Blaster" points="17.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="96de189e-85e9-a82b-9efa-56c7b06e5904" name="Blaster" points="17.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -146,7 +146,7 @@
                 </link>
               </links>
             </entry>
-            <entry id="aeaa0141-c271-289f-0686-a5df2a34128e" name="Burner" points="18.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="aeaa0141-c271-289f-0686-a5df2a34128e" name="Burner" points="18.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -164,9 +164,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="2c16020f-a2e1-8b90-afe5-b332b6c1c942" name="Striker" points="16.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="2c16020f-a2e1-8b90-afe5-b332b6c1c942" name="Striker" points="16.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="406617ff-fc0f-ca82-83ae-5fe57921ddb6" name="Dual SHVAK 50mm Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="406617ff-fc0f-ca82-83ae-5fe57921ddb6" name="Dual SHVAK 50mm Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -207,7 +207,7 @@
                 </link>
               </links>
             </entry>
-            <entry id="32a908d9-bedc-9853-c299-d7af34b5b0be" name="Burster" points="18.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="32a908d9-bedc-9853-c299-d7af34b5b0be" name="Burster" points="18.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -250,7 +250,7 @@
         </link>
       </links>
     </entry>
-    <entry id="a94df2e5-47b2-6074-c4e8-c468c0087ff7" name="BA-64D" points="5.0" categoryId="bbcb75d0-5169-4b14-1ca9-dff1d9b4996e" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="a94df2e5-47b2-6074-c4e8-c468c0087ff7" name="BA-64D" points="5.0" categoryId="bbcb75d0-5169-4b14-1ca9-dff1d9b4996e" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -281,9 +281,9 @@
         </link>
       </links>
     </entry>
-    <entry id="fdd12978-8cc7-eb47-107b-4664a88fdfa8" name="Babushka" points="16.0" categoryId="d78cc027-a9e9-a40f-cca6-6333e2739f64" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="fdd12978-8cc7-eb47-107b-4664a88fdfa8" name="Babushka" points="16.0" categoryId="d78cc027-a9e9-a40f-cca6-6333e2739f64" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="87498222-9d7c-0dc1-fc1f-12f5d118ffe1" name="Dual Maxim Gatling Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="87498222-9d7c-0dc1-fc1f-12f5d118ffe1" name="Dual Maxim Gatling Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -337,7 +337,7 @@
         </link>
       </links>
     </entry>
-    <entry id="d9d4b9a2-aee9-52b6-3065-3369f869a1ff" name="Carrier" points="11.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="d9d4b9a2-aee9-52b6-3065-3369f869a1ff" name="Carrier" points="11.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -365,9 +365,9 @@
         </link>
       </links>
     </entry>
-    <entry id="4e22adf9-2afa-e3c5-45d6-50eb1d208751" name="Fakyeli" points="9.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="4e22adf9-2afa-e3c5-45d6-50eb1d208751" name="Fakyeli" points="9.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="8d29b7b1-6d22-625f-efd6-f158d7083263" name="Sulfur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="8d29b7b1-6d22-625f-efd6-f158d7083263" name="Sulfur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -382,7 +382,7 @@
             </link>
           </links>
         </entry>
-        <entry id="193a02f1-e9be-4b50-7c72-986f1e451946" name="KS-18 Shotgun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="193a02f1-e9be-4b50-7c72-986f1e451946" name="KS-18 Shotgun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -411,7 +411,7 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="7808e883-057f-f4c6-a62e-3ffe0b63616d" name="Molotov Cocktail" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="7808e883-057f-f4c6-a62e-3ffe0b63616d" name="Molotov Cocktail" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -442,7 +442,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="af4fc82f-2ba4-f9b9-0c2f-128a0b48d66d" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="af4fc82f-2ba4-f9b9-0c2f-128a0b48d66d" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -473,9 +473,9 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="598cbe93-fb6d-3ebe-44b8-9050148ad3b9" name="Frontoviki" points="7.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="598cbe93-fb6d-3ebe-44b8-9050148ad3b9" name="Frontoviki" points="7.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="69739273-53c2-7852-c253-20fedfab3c66" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="69739273-53c2-7852-c253-20fedfab3c66" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -487,7 +487,7 @@
             </link>
           </links>
         </entry>
-        <entry id="8885b0a3-3852-488f-8743-a066ec995742" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="8885b0a3-3852-488f-8743-a066ec995742" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -501,7 +501,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="1264563a-2975-494e-fe6c-fcb3ad31c047" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="1264563a-2975-494e-fe6c-fcb3ad31c047" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -532,9 +532,9 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="6ec6233c-8f92-2000-9d86-0f28dbc0583e" name="Grand&apos;ma" points="11.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="6ec6233c-8f92-2000-9d86-0f28dbc0583e" name="Grand&apos;ma" points="11.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="35f24c02-35c2-f686-d5b3-d15d40ecb862" name="VK-916 45mm Howitzer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="35f24c02-35c2-f686-d5b3-d15d40ecb862" name="VK-916 45mm Howitzer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -568,7 +568,7 @@
             </link>
           </links>
         </entry>
-        <entry id="a754132e-9855-14c8-3028-8884c4d93cd3" name="Heavy Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="a754132e-9855-14c8-3028-8884c4d93cd3" name="Heavy Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -615,9 +615,9 @@
         </link>
       </links>
     </entry>
-    <entry id="89c6e532-446e-a470-11a3-3949498fb98a" name="Hailstorm" points="7.0" categoryId="b65bbf00-a157-7756-2040-07ec6f49cef9" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="89c6e532-446e-a470-11a3-3949498fb98a" name="Hailstorm" points="7.0" categoryId="b65bbf00-a157-7756-2040-07ec6f49cef9" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="39af1d1a-06f2-24cb-76c7-c222f144a9ba" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="39af1d1a-06f2-24cb-76c7-c222f144a9ba" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -629,7 +629,7 @@
             </link>
           </links>
         </entry>
-        <entry id="41980989-0acb-5375-7070-77d18ca10e23" name="120mm PM-46 Mortar" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="41980989-0acb-5375-7070-77d18ca10e23" name="120mm PM-46 Mortar" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -684,9 +684,9 @@
         </link>
       </links>
     </entry>
-    <entry id="326b45c4-d310-03ee-1d04-68fe614f0bec" name="Iosef Stalin" points="22.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="326b45c4-d310-03ee-1d04-68fe614f0bec" name="Iosef Stalin" points="22.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="6080d521-5ebc-87aa-7965-a2a0c8b18849" name="ATO-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="6080d521-5ebc-87aa-7965-a2a0c8b18849" name="ATO-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -720,7 +720,7 @@
             </link>
           </links>
         </entry>
-        <entry id="51d221b4-291f-bea6-2182-9f61637776b6" name="183mm D-47T Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="51d221b4-291f-bea6-2182-9f61637776b6" name="183mm D-47T Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -790,7 +790,7 @@
         </link>
       </links>
     </entry>
-    <entry id="c0d58857-4932-d53a-767c-c08df78cff43" name="Iron Joe" points="14.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="c0d58857-4932-d53a-767c-c08df78cff43" name="Iron Joe" points="14.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -824,9 +824,9 @@
         </link>
       </links>
     </entry>
-    <entry id="c709b2fd-3a96-ed10-b86d-693f3b5acf52" name="Ivan the Butcher" points="10.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="c709b2fd-3a96-ed10-b86d-693f3b5acf52" name="Ivan the Butcher" points="10.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="7311ff0c-892d-562f-5962-cd217663d3c8" name="DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="7311ff0c-892d-562f-5962-cd217663d3c8" name="DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -855,7 +855,7 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="e63d6a1a-6d35-03fb-8539-09799ca79bc6" name="Paired Meat Cleavers" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="e63d6a1a-6d35-03fb-8539-09799ca79bc6" name="Paired Meat Cleavers" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -914,7 +914,7 @@
         </link>
       </links>
     </entry>
-    <entry id="810ce93f-f8c7-6ca0-fb20-d299258e98ec" name="Karl Marx" points="29.0" categoryId="de909069-5479-47d9-dc05-07d94eae45d1" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="810ce93f-f8c7-6ca0-fb20-d299258e98ec" name="Karl Marx" points="29.0" categoryId="de909069-5479-47d9-dc05-07d94eae45d1" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -954,9 +954,9 @@
         </link>
       </links>
     </entry>
-    <entry id="1a3c7ac7-8ccf-976a-50d1-c7088405f139" name="Koshka" points="15.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="1a3c7ac7-8ccf-976a-50d1-c7088405f139" name="Koshka" points="15.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="fe900e3f-a1f3-4a8d-3403-dcce67173d13" name="Grenade Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="fe900e3f-a1f3-4a8d-3403-dcce67173d13" name="Grenade Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -1000,14 +1000,14 @@
         </link>
       </links>
     </entry>
-    <entry id="7c946f23-62ef-8ad7-36e4-fa7639a2e9d5" name="KV-47" points="0.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="7c946f23-62ef-8ad7-36e4-fa7639a2e9d5" name="KV-47" points="0.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups>
-        <entryGroup id="c17eca40-9d41-7ba2-2cb9-63a0ed001073" name="KV-47" defaultEntryId="e8b7c7dc-c13f-e0aa-c9d9-327d3f1f246a" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="c17eca40-9d41-7ba2-2cb9-63a0ed001073" name="KV-47" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="e8b7c7dc-c13f-e0aa-c9d9-327d3f1f246a" name="Nadya" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="e8b7c7dc-c13f-e0aa-c9d9-327d3f1f246a" name="Nadya" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="83c3e10b-1967-7b7d-90f1-514c0fa913c3" name="Paired Heavy Sulfur Jets" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="83c3e10b-1967-7b7d-90f1-514c0fa913c3" name="Paired Heavy Sulfur Jets" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1058,9 +1058,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="e1124b30-0ef0-b8d6-063a-597ec3074378" name="Nina" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="e1124b30-0ef0-b8d6-063a-597ec3074378" name="Nina" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="14de422d-59ac-698b-df86-df1cb4979562" name="Dual Triple RPG-47" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="14de422d-59ac-698b-df86-df1cb4979562" name="Dual Triple RPG-47" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1111,9 +1111,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="cdcac3bf-3909-c9e1-ce45-a1db0f1a8a91" name="Natasia" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="cdcac3bf-3909-c9e1-ce45-a1db0f1a8a91" name="Natasia" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="6383c702-9b9a-bb09-b871-bffdef3adc48" name="Dual Quad DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="6383c702-9b9a-bb09-b871-bffdef3adc48" name="Dual Quad DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1157,9 +1157,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="136caf54-b4a9-f919-fe6f-4c91998f8a59" name="Natasha" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="136caf54-b4a9-f919-fe6f-4c91998f8a59" name="Natasha" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="6ff2e6bb-046c-7fba-695c-fa339ae2edff" name="Paired 45mm D-2S Howitzers" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="6ff2e6bb-046c-7fba-695c-fa339ae2edff" name="Paired 45mm D-2S Howitzers" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1210,9 +1210,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="c79534b0-7a0f-f7eb-c118-1c6ee9dcf3ee" name="Natalya" points="8.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="c79534b0-7a0f-f7eb-c118-1c6ee9dcf3ee" name="Natalya" points="8.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="274c84c7-4153-79b5-4067-a73713f141e1" name="Paired Chainsaws" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="274c84c7-4153-79b5-4067-a73713f141e1" name="Paired Chainsaws" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1269,9 +1269,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="a7845663-177e-031a-7004-4bc57402db48" name="Nikita" points="8.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="a7845663-177e-031a-7004-4bc57402db48" name="Nikita" points="8.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="c696efbf-680e-d3c8-38b3-f04872a7df5f" name="Dual Quad 120mm Grenade Launchers" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="c696efbf-680e-d3c8-38b3-f04872a7df5f" name="Dual Quad 120mm Grenade Launchers" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1315,9 +1315,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="0ad6d611-9c08-de22-774d-d08386b4846d" name="Maksim" points="8.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="0ad6d611-9c08-de22-774d-d08386b4846d" name="Maksim" points="8.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="24fa360c-f6d8-f0d1-35d4-9db8fa1d9ab7" name="Chainsaw" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="24fa360c-f6d8-f0d1-35d4-9db8fa1d9ab7" name="Chainsaw" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1374,9 +1374,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="188f53c3-180e-5358-9cd5-1af0dfe64129" name="Marlen" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="188f53c3-180e-5358-9cd5-1af0dfe64129" name="Marlen" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="3192e028-8ded-180e-41f8-42ab2385aa76" name="Monkey Wrench" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="3192e028-8ded-180e-41f8-42ab2385aa76" name="Monkey Wrench" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1432,9 +1432,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="dec77d8c-29e6-8581-af73-3e9168242ee9" name="Mikhail" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="dec77d8c-29e6-8581-af73-3e9168242ee9" name="Mikhail" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="06129bd3-a44a-e92f-c80c-23455434732a" name="Heavy Sulfur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="06129bd3-a44a-e92f-c80c-23455434732a" name="Heavy Sulfur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1488,9 +1488,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="fad6c7bc-b243-11f6-51de-b2704088b23f" name="Melor" points="10.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="fad6c7bc-b243-11f6-51de-b2704088b23f" name="Melor" points="10.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="e8850365-8d0a-a53f-4a95-cc220a1cafb7" name="Monkey Wrench" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="e8850365-8d0a-a53f-4a95-cc220a1cafb7" name="Monkey Wrench" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1520,7 +1520,7 @@
                   </profiles>
                   <links/>
                 </entry>
-                <entry id="8147e5da-dad1-5c6e-93e0-2a747684252d" name="45mm D-25 Howitzer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="8147e5da-dad1-5c6e-93e0-2a747684252d" name="45mm D-25 Howitzer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1592,14 +1592,14 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="96cd89b0-a310-556d-93cc-9330b558333b" name="KV-47 TSH" points="0.0" categoryId="bbcb75d0-5169-4b14-1ca9-dff1d9b4996e" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="96cd89b0-a310-556d-93cc-9330b558333b" name="KV-47 TSH" points="0.0" categoryId="bbcb75d0-5169-4b14-1ca9-dff1d9b4996e" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups>
-        <entryGroup id="f24ff606-5861-20f5-85de-7f54662d8899" name="KV-47 TSH" defaultEntryId="813cefd1-24e3-f035-32ac-4064c50865d1" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="f24ff606-5861-20f5-85de-7f54662d8899" name="KV-47 TSH" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="bc4ce0e4-2b10-3752-3f6b-51e10f0fb2da" name="Nina" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="bc4ce0e4-2b10-3752-3f6b-51e10f0fb2da" name="Nina" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="456b46af-4ff4-ac59-191b-a443782e4642" name="Dual Triple RPG-47" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="456b46af-4ff4-ac59-191b-a443782e4642" name="Dual Triple RPG-47" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1656,9 +1656,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="03a9b503-c219-2197-63c2-69d594c02548" name="Mikhail" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="03a9b503-c219-2197-63c2-69d594c02548" name="Mikhail" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="01eac37b-81b2-5a69-c930-6303325cf54d" name="Heavy Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="01eac37b-81b2-5a69-c930-6303325cf54d" name="Heavy Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1718,9 +1718,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="813cefd1-24e3-f035-32ac-4064c50865d1" name="Natasha" points="8.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="813cefd1-24e3-f035-32ac-4064c50865d1" name="Natasha" points="8.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="6d7be777-be1a-9e40-d4de-3c7fcdf0559d" name="Dual 45mm D-2S Howitzers" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="6d7be777-be1a-9e40-d4de-3c7fcdf0559d" name="Dual 45mm D-2S Howitzers" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1774,9 +1774,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="d56020e1-3d07-c0e0-308d-01632be934c4" name="Aleksei" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="d56020e1-3d07-c0e0-308d-01632be934c4" name="Aleksei" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="049f4d14-5fc5-ab6d-7133-b2ff65af331f" name="Dual Maxim Gatling Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="049f4d14-5fc5-ab6d-7133-b2ff65af331f" name="Dual Maxim Gatling Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1826,9 +1826,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="4133d0fd-c5da-1e0a-e62a-c16c43e55688" name="Anatoly" points="12.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="4133d0fd-c5da-1e0a-e62a-c16c43e55688" name="Anatoly" points="12.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="77d56d20-fea4-6adc-a771-44c846370b1c" name="Dual Light Tesla Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="77d56d20-fea4-6adc-a771-44c846370b1c" name="Dual Light Tesla Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -1906,9 +1906,9 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="99634d14-fb90-512e-fb80-85f41527af42" name="Lavrentiy Beria" points="23.0" categoryId="de909069-5479-47d9-dc05-07d94eae45d1" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="99634d14-fb90-512e-fb80-85f41527af42" name="Lavrentiy Beria" points="23.0" categoryId="de909069-5479-47d9-dc05-07d94eae45d1" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="caef01fa-7dc5-dbed-a8f2-fbb5b8cbad49" name="ATO-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="caef01fa-7dc5-dbed-a8f2-fbb5b8cbad49" name="ATO-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -1942,7 +1942,7 @@
             </link>
           </links>
         </entry>
-        <entry id="2e265d6e-4dc0-6310-621e-1ee1505ec95b" name="152mm ML-20T Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="2e265d6e-4dc0-6310-621e-1ee1505ec95b" name="152mm ML-20T Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2005,9 +2005,9 @@
         </link>
       </links>
     </entry>
-    <entry id="68e0cb9e-476e-15d7-f710-f66daf7fceea" name="Mao Zedong" points="25.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="68e0cb9e-476e-15d7-f710-f66daf7fceea" name="Mao Zedong" points="25.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="68273b48-c025-dcaa-bd3d-6101789bb5f7" name="Quad 85mm D-5TAA Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="68273b48-c025-dcaa-bd3d-6101789bb5f7" name="Quad 85mm D-5TAA Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2076,9 +2076,9 @@
         </link>
       </links>
     </entry>
-    <entry id="2b99825e-ac73-113e-17a2-cbd1801c0ee8" name="Matrioshka" points="16.0" categoryId="d78cc027-a9e9-a40f-cca6-6333e2739f64" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="2b99825e-ac73-113e-17a2-cbd1801c0ee8" name="Matrioshka" points="16.0" categoryId="d78cc027-a9e9-a40f-cca6-6333e2739f64" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="0e2a40b9-ab4b-b875-09be-bf0181e79f82" name="Dual 152mm ML-20S Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="0e2a40b9-ab4b-b875-09be-bf0181e79f82" name="Dual 152mm ML-20S Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2132,9 +2132,9 @@
         </link>
       </links>
     </entry>
-    <entry id="f7e70822-01a8-e237-f6d8-4acdea16a2b1" name="Motherland Tesla Gun" points="21.0" categoryId="e7069911-d999-7800-e256-b1f8752871e3" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="f7e70822-01a8-e237-f6d8-4acdea16a2b1" name="Motherland Tesla Gun" points="21.0" categoryId="e7069911-d999-7800-e256-b1f8752871e3" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="3ac0a871-6fcb-c6e4-515d-ca883afc3c20" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="3ac0a871-6fcb-c6e4-515d-ca883afc3c20" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2176,9 +2176,9 @@
         </link>
       </links>
     </entry>
-    <entry id="fb30624b-c125-ef69-77b4-c72673ee917d" name="Motherland Twin Tesla Gun" points="32.0" categoryId="e7069911-d999-7800-e256-b1f8752871e3" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="fb30624b-c125-ef69-77b4-c72673ee917d" name="Motherland Twin Tesla Gun" points="32.0" categoryId="e7069911-d999-7800-e256-b1f8752871e3" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="c021452b-f5d5-1fc5-f176-feddd638f139" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="c021452b-f5d5-1fc5-f176-feddd638f139" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2190,7 +2190,7 @@
             </link>
           </links>
         </entry>
-        <entry id="80be1619-741a-82b8-a4ac-d2ef90324112" name="Twin Heavy Tesla Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="80be1619-741a-82b8-a4ac-d2ef90324112" name="Twin Heavy Tesla Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2251,9 +2251,9 @@
         </link>
       </links>
     </entry>
-    <entry id="c6c06cf1-3e16-e5d1-6ec3-3f6590e256d0" name="Nikolai" points="11.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="c6c06cf1-3e16-e5d1-6ec3-3f6590e256d0" name="Nikolai" points="11.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="9630b258-17ef-bc68-6299-52d88a929912" name="Grenade Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="9630b258-17ef-bc68-6299-52d88a929912" name="Grenade Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2292,9 +2292,9 @@
         </link>
       </links>
     </entry>
-    <entry id="0715c15f-17d2-fbb9-b572-86a2f2ac1046" name="Red Banner" points="14.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="0715c15f-17d2-fbb9-b572-86a2f2ac1046" name="Red Banner" points="14.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="28bc8481-a1c4-6d4d-e935-ac7c08425c84" name="Machete" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="28bc8481-a1c4-6d4d-e935-ac7c08425c84" name="Machete" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2323,7 +2323,7 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="721a3be1-38a1-0896-d81a-b742d5b5f942" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="721a3be1-38a1-0896-d81a-b742d5b5f942" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2362,9 +2362,9 @@
         </link>
       </links>
     </entry>
-    <entry id="f4e8af7f-e877-2030-f3e4-cfe72ff876ec" name="Red Bears (Medvedi)" points="12.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="f4e8af7f-e877-2030-f3e4-cfe72ff876ec" name="Red Bears (Medvedi)" points="12.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="1b2f4324-bfb9-70ab-deeb-52e76d21fafe" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="1b2f4324-bfb9-70ab-deeb-52e76d21fafe" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2376,7 +2376,7 @@
             </link>
           </links>
         </entry>
-        <entry id="291354ea-864c-8a83-2143-0720e7afac4c" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="291354ea-864c-8a83-2143-0720e7afac4c" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2388,7 +2388,7 @@
             </link>
           </links>
         </entry>
-        <entry id="915377af-cd4c-c866-6586-e3e13fd83f8b" name="Power Cutter" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="915377af-cd4c-c866-6586-e3e13fd83f8b" name="Power Cutter" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2419,7 +2419,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="c072d98c-cfb2-9996-1b8b-59347816f02c" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="c072d98c-cfb2-9996-1b8b-59347816f02c" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2454,9 +2454,9 @@
         </link>
       </links>
     </entry>
-    <entry id="4318849e-a0ce-48b7-fbd2-ac6f0ddf8564" name="Red Command" points="13.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="4318849e-a0ce-48b7-fbd2-ac6f0ddf8564" name="Red Command" points="13.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="4c8b1752-0fe0-a40e-7f26-8ee2ce53196f" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="4c8b1752-0fe0-a40e-7f26-8ee2ce53196f" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2468,7 +2468,7 @@
             </link>
           </links>
         </entry>
-        <entry id="2022c29b-09b0-39f6-afdc-59aca0cb7698" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="2022c29b-09b0-39f6-afdc-59aca0cb7698" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2483,7 +2483,7 @@
             </link>
           </links>
         </entry>
-        <entry id="d848c733-a1f0-4ba7-27a7-5b401a05081d" name="PTRS-47 Bazooka" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="d848c733-a1f0-4ba7-27a7-5b401a05081d" name="PTRS-47 Bazooka" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2500,7 +2500,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="f3b44620-7386-cd61-31cb-31efb2aa3f23" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="f3b44620-7386-cd61-31cb-31efb2aa3f23" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2535,9 +2535,9 @@
         </link>
       </links>
     </entry>
-    <entry id="d94c075f-9c10-149b-c7d8-993bbb867c8e" name="Red Commissars (Drakoni)" points="8.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="d94c075f-9c10-149b-c7d8-993bbb867c8e" name="Red Commissars (Drakoni)" points="8.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="e792d9f8-716d-0614-9da6-27ef6b54c080" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="e792d9f8-716d-0614-9da6-27ef6b54c080" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2549,7 +2549,7 @@
             </link>
           </links>
         </entry>
-        <entry id="d21154c7-4509-a22d-7c3e-f33535f421be" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="d21154c7-4509-a22d-7c3e-f33535f421be" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2564,7 +2564,7 @@
             </link>
           </links>
         </entry>
-        <entry id="10247b6f-cd3a-3231-825e-7a1e97528854" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="10247b6f-cd3a-3231-825e-7a1e97528854" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2576,7 +2576,7 @@
             </link>
           </links>
         </entry>
-        <entry id="7050ab98-8b4b-66a0-c585-e848ee312ba4" name="PTRS-47 Bazooka" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="7050ab98-8b4b-66a0-c585-e848ee312ba4" name="PTRS-47 Bazooka" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2611,9 +2611,9 @@
         </link>
       </links>
     </entry>
-    <entry id="4ff1a02a-7d56-953b-1d58-5d65d3a05a70" name="Red Death (Jznetzi)" points="4.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="4ff1a02a-7d56-953b-1d58-5d65d3a05a70" name="Red Death (Jznetzi)" points="4.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="8c1da4c0-962b-03c2-0e0e-1fa7959c97b4" name="Widowmaker Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="8c1da4c0-962b-03c2-0e0e-1fa7959c97b4" name="Widowmaker Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2630,7 +2630,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="b61db5ce-9ab2-bc00-bd4e-c1478c1f066c" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="b61db5ce-9ab2-bc00-bd4e-c1478c1f066c" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2668,9 +2668,9 @@
         </link>
       </links>
     </entry>
-    <entry id="f015dea7-6954-3cc6-73c2-2e2f9c40b927" name="Red Fury" points="7.0" categoryId="b65bbf00-a157-7756-2040-07ec6f49cef9" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="f015dea7-6954-3cc6-73c2-2e2f9c40b927" name="Red Fury" points="7.0" categoryId="b65bbf00-a157-7756-2040-07ec6f49cef9" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="ecb73045-d674-4359-68eb-89b6f1dbcc1e" name="100mm BS-3S Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="ecb73045-d674-4359-68eb-89b6f1dbcc1e" name="100mm BS-3S Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2700,7 +2700,7 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="f6b140c1-9aff-1d65-5a6a-c9f943a8fa8e" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="f6b140c1-9aff-1d65-5a6a-c9f943a8fa8e" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2754,9 +2754,9 @@
         </link>
       </links>
     </entry>
-    <entry id="941dc503-8ff3-84af-0b35-9c21d8081786" name="Red Hunters (Ohotniki)" points="6.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="941dc503-8ff3-84af-0b35-9c21d8081786" name="Red Hunters (Ohotniki)" points="6.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="b131b9ba-b1ad-c145-70e2-18ed1f892716" name="Widowmaker Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="b131b9ba-b1ad-c145-70e2-18ed1f892716" name="Widowmaker Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2771,7 +2771,7 @@
             </link>
           </links>
         </entry>
-        <entry id="8254bd5b-6ad9-04c0-a5fe-93f3a49d50cc" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="8254bd5b-6ad9-04c0-a5fe-93f3a49d50cc" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2785,7 +2785,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="53dc477a-36c1-44fc-4238-6449cc7bd6ec" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="53dc477a-36c1-44fc-4238-6449cc7bd6ec" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2816,9 +2816,9 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="ace170b5-5f55-3cb8-f481-472b636a0b87" name="Red Lightning" points="8.0" categoryId="b65bbf00-a157-7756-2040-07ec6f49cef9" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="ace170b5-5f55-3cb8-f481-472b636a0b87" name="Red Lightning" points="8.0" categoryId="b65bbf00-a157-7756-2040-07ec6f49cef9" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="c1f99ecd-2e24-36a4-ab0f-e332555d9313" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="c1f99ecd-2e24-36a4-ab0f-e332555d9313" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2830,7 +2830,7 @@
             </link>
           </links>
         </entry>
-        <entry id="a8512210-71ed-fc98-4b15-e357a70c84c2" name="Light Tesla Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="a8512210-71ed-fc98-4b15-e357a70c84c2" name="Light Tesla Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2885,9 +2885,9 @@
         </link>
       </links>
     </entry>
-    <entry id="f7eda361-5972-ab30-c08f-1b54c51ded12" name="Red Rain" points="6.0" categoryId="b65bbf00-a157-7756-2040-07ec6f49cef9" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="f7eda361-5972-ab30-c08f-1b54c51ded12" name="Red Rain" points="6.0" categoryId="b65bbf00-a157-7756-2040-07ec6f49cef9" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="be540c19-06e6-bda7-6e03-a6c8d6cc57e8" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="be540c19-06e6-bda7-6e03-a6c8d6cc57e8" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2917,7 +2917,7 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="7d2f2b46-c1c2-ccf8-f1c5-4728ccd4a7d7" name="203mm BR-46S Heavy Mortar" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="7d2f2b46-c1c2-ccf8-f1c5-4728ccd4a7d7" name="203mm BR-46S Heavy Mortar" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2978,9 +2978,9 @@
         </link>
       </links>
     </entry>
-    <entry id="c3842c26-77f1-c6f2-9a10-c19f410d883d" name="Red Storm" points="8.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="c3842c26-77f1-c6f2-9a10-c19f410d883d" name="Red Storm" points="8.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="93d5c178-342d-8cde-c68e-9f97f4a72108" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="93d5c178-342d-8cde-c68e-9f97f4a72108" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2992,7 +2992,7 @@
             </link>
           </links>
         </entry>
-        <entry id="cc5acf4d-295e-3c47-f646-60a5e792b9a5" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="cc5acf4d-295e-3c47-f646-60a5e792b9a5" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3004,7 +3004,7 @@
             </link>
           </links>
         </entry>
-        <entry id="4a5da0b0-b8c0-aaf2-e2ba-6e7798e281d8" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="4a5da0b0-b8c0-aaf2-e2ba-6e7798e281d8" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3019,7 +3019,7 @@
             </link>
           </links>
         </entry>
-        <entry id="6aaea774-85d7-d6b4-9039-f02a6f6b805a" name="Molotov Cocktail" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="6aaea774-85d7-d6b4-9039-f02a6f6b805a" name="Molotov Cocktail" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3050,7 +3050,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="000ff620-6011-41f8-e201-6e8ef03860ff" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="000ff620-6011-41f8-e201-6e8ef03860ff" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3081,9 +3081,9 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="49b2d5c0-e3fd-d37f-dff1-bc6a4984b23c" name="Red Thunder" points="8.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="49b2d5c0-e3fd-d37f-dff1-bc6a4984b23c" name="Red Thunder" points="8.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="1aade015-d009-3c75-f75f-e2c40f12580f" name="PTRS-47 Bazooka" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="1aade015-d009-3c75-f75f-e2c40f12580f" name="PTRS-47 Bazooka" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3098,7 +3098,7 @@
             </link>
           </links>
         </entry>
-        <entry id="88da8673-9399-8ad9-993c-dbbfd898b95a" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="88da8673-9399-8ad9-993c-dbbfd898b95a" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3110,7 +3110,7 @@
             </link>
           </links>
         </entry>
-        <entry id="ca8d15e0-82da-5e14-fde9-f67f3774aa62" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="ca8d15e0-82da-5e14-fde9-f67f3774aa62" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3127,7 +3127,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="66cc7f2e-1a79-7f30-a0ee-5087cefe125f" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="66cc7f2e-1a79-7f30-a0ee-5087cefe125f" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3158,14 +3158,14 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="933dd1fd-ada4-b297-ef9d-f8976aa08b63" name="Red Yana" points="0.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="933dd1fd-ada4-b297-ef9d-f8976aa08b63" name="Red Yana" points="0.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups>
-        <entryGroup id="b8c28837-c0b6-0552-d65b-740d06f48984" name="Red Yana" defaultEntryId="0c4e1b1d-3845-1371-fb4a-df66b0a39562" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="b8c28837-c0b6-0552-d65b-740d06f48984" name="Red Yana" defaultEntryId="0c4e1b1d-3845-1371-fb4a-df66b0a39562" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="5cb76e6a-7267-b61b-e1b8-2be8dd58ff34" name="Red Yana (Officer Inf1)" points="14.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="5cb76e6a-7267-b61b-e1b8-2be8dd58ff34" name="Red Yana (Officer Inf1)" points="14.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="63eb2710-70ae-6410-ae40-eb4003776d89" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="63eb2710-70ae-6410-ae40-eb4003776d89" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -3228,9 +3228,9 @@
                 </link>
               </links>
             </entry>
-            <entry id="0c4e1b1d-3845-1371-fb4a-df66b0a39562" name="Red Yana (Inf2)" points="9.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+            <entry id="0c4e1b1d-3845-1371-fb4a-df66b0a39562" name="Red Yana (Inf2)" points="9.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="327a3542-b561-1aa5-c6f2-ea248292f01d" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+                <entry id="327a3542-b561-1aa5-c6f2-ea248292f01d" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
@@ -3301,9 +3301,9 @@
       <profiles/>
       <links/>
     </entry>
-    <entry id="77550af8-c20a-d1ab-0001-8b23638f26ac" name="Sergei Shtemenko" points="21.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="77550af8-c20a-d1ab-0001-8b23638f26ac" name="Sergei Shtemenko" points="21.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="fc220bbd-464d-8db2-8286-a843884a587b" name="203mm D-30S Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="fc220bbd-464d-8db2-8286-a843884a587b" name="203mm D-30S Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3366,9 +3366,9 @@
         </link>
       </links>
     </entry>
-    <entry id="08b521aa-2d9c-97d7-8186-49f097025ba0" name="Spetsnaz Heavies" points="9.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="08b521aa-2d9c-97d7-8186-49f097025ba0" name="Spetsnaz Heavies" points="9.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="0fa74bc2-83fd-f809-c418-4f9a9aac3bc3" name="AK-45 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="0fa74bc2-83fd-f809-c418-4f9a9aac3bc3" name="AK-45 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3429,9 +3429,9 @@
         </link>
       </links>
     </entry>
-    <entry id="e4fe749f-bdc4-9307-3d72-ee9fff61666a" name="Spetsnaz Killers" points="7.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="e4fe749f-bdc4-9307-3d72-ee9fff61666a" name="Spetsnaz Killers" points="7.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="9fd24e28-bd4f-d834-961d-551fe7473519" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="9fd24e28-bd4f-d834-961d-551fe7473519" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3443,7 +3443,7 @@
             </link>
           </links>
         </entry>
-        <entry id="45779050-9aa0-7789-ee3a-db06d8d6f6cd" name="Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="45779050-9aa0-7789-ee3a-db06d8d6f6cd" name="Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3458,7 +3458,7 @@
             </link>
           </links>
         </entry>
-        <entry id="f1fac67f-6e6b-a1c2-0430-369718e5f8ac" name="RPG-1" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="f1fac67f-6e6b-a1c2-0430-369718e5f8ac" name="RPG-1" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3514,9 +3514,9 @@
         </link>
       </links>
     </entry>
-    <entry id="57e1e513-73f9-c6a8-7407-80fc7ef0ee08" name="Spetsnaz Observers" points="2.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="57e1e513-73f9-c6a8-7407-80fc7ef0ee08" name="Spetsnaz Observers" points="2.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="c9ca7f2e-fa79-3f66-398e-3c7e1ca9db8d" name="Machete" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="c9ca7f2e-fa79-3f66-398e-3c7e1ca9db8d" name="Machete" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3545,7 +3545,7 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="a8fb533a-4752-e01c-5572-89542af3cf37" name="AK-45 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="a8fb533a-4752-e01c-5572-89542af3cf37" name="AK-45 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3597,9 +3597,9 @@
         </link>
       </links>
     </entry>
-    <entry id="37f1319f-847a-0968-348d-9810e6eca146" name="Spetsnaz Saboteurs" points="5.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="37f1319f-847a-0968-348d-9810e6eca146" name="Spetsnaz Saboteurs" points="5.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="23c8b354-7d91-eea3-c557-273a0966b49b" name="AK-45 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="23c8b354-7d91-eea3-c557-273a0966b49b" name="AK-45 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3628,7 +3628,7 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="caf8537b-f96a-2788-4709-9d6fc5fd6079" name="Demo Charge" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="caf8537b-f96a-2788-4709-9d6fc5fd6079" name="Demo Charge" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3677,9 +3677,9 @@
         </link>
       </links>
     </entry>
-    <entry id="fd954800-0a1e-bdf6-206f-dc601499cace" name="Spetsnaz Specialists" points="9.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="fd954800-0a1e-bdf6-206f-dc601499cace" name="Spetsnaz Specialists" points="9.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="2e516cb1-4a2c-e8e0-4245-462afa8d53fc" name="AK-45 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="2e516cb1-4a2c-e8e0-4245-462afa8d53fc" name="AK-45 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3708,7 +3708,7 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="66d5c277-b7a6-69d3-df12-39f4b5b275cb" name="RPG-1" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="66d5c277-b7a6-69d3-df12-39f4b5b275cb" name="RPG-1" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3761,9 +3761,9 @@
         </link>
       </links>
     </entry>
-    <entry id="f67fc52b-5a5c-7255-a23b-ab4f7f5c6086" name="Steel Death" points="13.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="f67fc52b-5a5c-7255-a23b-ab4f7f5c6086" name="Steel Death" points="13.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="d9ba4b2c-4a5c-a1fd-4598-3280dc53b87d" name="Steel Glove" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="d9ba4b2c-4a5c-a1fd-4598-3280dc53b87d" name="Steel Glove" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3775,7 +3775,7 @@
             </link>
           </links>
         </entry>
-        <entry id="9460e319-4f84-279c-642e-259e76c827ed" name="SVK-47 Heavy Sniper Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="9460e319-4f84-279c-642e-259e76c827ed" name="SVK-47 Heavy Sniper Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3831,9 +3831,9 @@
         </link>
       </links>
     </entry>
-    <entry id="9ec3aa12-e503-f1a6-1348-ed31a4130418" name="Steel Fist" points="20.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="9ec3aa12-e503-f1a6-1348-ed31a4130418" name="Steel Fist" points="20.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="e49840b6-20ed-8bd4-18c4-5567cfac54df" name="20mm SHVAK-47 Autogun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="e49840b6-20ed-8bd4-18c4-5567cfac54df" name="20mm SHVAK-47 Autogun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3845,7 +3845,7 @@
             </link>
           </links>
         </entry>
-        <entry id="9672bd54-ca7b-e287-8c87-9d5f39419bf1" name="KS-47 Heavy Shotgun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="9672bd54-ca7b-e287-8c87-9d5f39419bf1" name="KS-47 Heavy Shotgun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3886,9 +3886,9 @@
         </link>
       </links>
     </entry>
-    <entry id="63995581-fd84-baaf-39b1-3b46574f8ac1" name="Steel Lightning" points="19.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="63995581-fd84-baaf-39b1-3b46574f8ac1" name="Steel Lightning" points="19.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="eed7c107-3bb0-0a76-8db9-e31ff3f27245" name="Steel Guard Tesla Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="eed7c107-3bb0-0a76-8db9-e31ff3f27245" name="Steel Guard Tesla Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -3950,9 +3950,9 @@
         </link>
       </links>
     </entry>
-    <entry id="dca5a61a-20e7-e71a-a4ff-0cf7476574e8" name="Steel Thunderbolt" points="15.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="dca5a61a-20e7-e71a-a4ff-0cf7476574e8" name="Steel Thunderbolt" points="15.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="1991ccc2-31b5-6b3d-7b14-03b6493fe72c" name="TRPG-12" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="1991ccc2-31b5-6b3d-7b14-03b6493fe72c" name="TRPG-12" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4017,9 +4017,9 @@
         </link>
       </links>
     </entry>
-    <entry id="2845c861-53b5-4a0b-9bb6-fa373c70e776" name="Steel Tornado" points="15.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="2845c861-53b5-4a0b-9bb6-fa373c70e776" name="Steel Tornado" points="15.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="738b42ce-42c3-ddbd-2a37-9e84628d7d0b" name="20mm SHVAK-47 Autogun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="738b42ce-42c3-ddbd-2a37-9e84628d7d0b" name="20mm SHVAK-47 Autogun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4031,7 +4031,7 @@
             </link>
           </links>
         </entry>
-        <entry id="01cce30f-eba9-a7ad-45ad-670b8636af07" name="Steel Glove" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="01cce30f-eba9-a7ad-45ad-670b8636af07" name="Steel Glove" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4043,7 +4043,7 @@
             </link>
           </links>
         </entry>
-        <entry id="558c9079-4196-76ab-ca6d-67bf0ad686f8" name="KS-47 Heavy Shotgun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="558c9079-4196-76ab-ca6d-67bf0ad686f8" name="KS-47 Heavy Shotgun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4075,9 +4075,9 @@
         </link>
       </links>
     </entry>
-    <entry id="06989d9c-e0a1-f8e1-a6ea-c3671c5378e6" name="Steel Wall" points="16.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="06989d9c-e0a1-f8e1-a6ea-c3671c5378e6" name="Steel Wall" points="16.0" categoryId="fb90473c-036d-7f25-40d9-dba33d0342e9" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="45ee35fa-0c62-1ac7-f91e-3a2724d9ef19" name="20mm SHVAK-47 Autogun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="45ee35fa-0c62-1ac7-f91e-3a2724d9ef19" name="20mm SHVAK-47 Autogun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4115,9 +4115,9 @@
         </link>
       </links>
     </entry>
-    <entry id="9312d300-7360-390e-9466-3df133d99aa9" name="Task Force Command" points="11.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="9312d300-7360-390e-9466-3df133d99aa9" name="Task Force Command" points="11.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="ab14f1bf-a51f-1d07-0129-b436f371b177" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="ab14f1bf-a51f-1d07-0129-b436f371b177" name="AK-45" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4129,7 +4129,7 @@
             </link>
           </links>
         </entry>
-        <entry id="8d2ec149-4450-0a06-7973-a117b7ee14a7" name="Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="8d2ec149-4450-0a06-7973-a117b7ee14a7" name="Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4170,9 +4170,9 @@
         </link>
       </links>
     </entry>
-    <entry id="e0550cdb-4c94-49f4-f80f-e878d0fb139a" name="Tiger Claws (Chinese Volunteers)" points="5.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="e0550cdb-4c94-49f4-f80f-e878d0fb139a" name="Tiger Claws (Chinese Volunteers)" points="5.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="d3b16619-4c85-cab8-2a3a-891f7e8ed2a9" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="d3b16619-4c85-cab8-2a3a-891f7e8ed2a9" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4186,7 +4186,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="d41bf35d-db52-afc8-d22e-c1cb68ff43a5" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="d41bf35d-db52-afc8-d22e-c1cb68ff43a5" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4217,9 +4217,9 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="261e4e29-47a1-a8e8-d472-bbacb7acb36d" name="Vladimir Lenin" points="21.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="261e4e29-47a1-a8e8-d472-bbacb7acb36d" name="Vladimir Lenin" points="21.0" categoryId="8f007b15-eb4c-aa4a-6c20-29e1f25ba998" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="22958966-a19f-366d-6084-51f18ff2e5ab" name="252mm BR-45T Howitzer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="22958966-a19f-366d-6084-51f18ff2e5ab" name="252mm BR-45T Howitzer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4292,9 +4292,9 @@
         </link>
       </links>
     </entry>
-    <entry id="340b05c3-0533-5e30-baf3-bf4a66f3e03b" name="Watchers (Nabludatyel)" points="3.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="340b05c3-0533-5e30-baf3-bf4a66f3e03b" name="Watchers (Nabludatyel)" points="3.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="eabd04c6-399f-d16f-5049-fde4196b7385" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="eabd04c6-399f-d16f-5049-fde4196b7385" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4308,7 +4308,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="f77d1dbc-82e0-2770-0a66-ad8c8cf24abe" name="Commissar" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+        <entryGroup id="f77d1dbc-82e0-2770-0a66-ad8c8cf24abe" name="Commissar" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4346,9 +4346,9 @@
         </link>
       </links>
     </entry>
-    <entry id="98cccbfd-650e-ae80-6adb-ce5a54803a4b" name="Winter Child" points="26.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="98cccbfd-650e-ae80-6adb-ce5a54803a4b" name="Winter Child" points="26.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="7153102a-0ee2-7488-f5dc-c2aee3b830de" name="Radiation Beam" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="7153102a-0ee2-7488-f5dc-c2aee3b830de" name="Radiation Beam" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4381,7 +4381,7 @@
             </link>
           </links>
         </entry>
-        <entry id="a124876a-c910-6a37-7e2f-e75ca15520bf" name="Paired Steel Fist" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="a124876a-c910-6a37-7e2f-e75ca15520bf" name="Paired Steel Fist" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4437,9 +4437,9 @@
         </link>
       </links>
     </entry>
-    <entry id="ea33a506-4d79-3666-5a42-65d2a4823754" name="Yakov" points="15.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="ea33a506-4d79-3666-5a42-65d2a4823754" name="Yakov" points="15.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="6d2abfa0-2f1d-9ded-8b4b-665353e56598" name="Sulfur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="6d2abfa0-2f1d-9ded-8b4b-665353e56598" name="Sulfur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4488,7 +4488,7 @@
   <rules/>
   <links/>
   <sharedEntries>
-    <entry id="d124bd61-dd3b-be04-47e5-023fc85365f1" name="250kg Bomb" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="d124bd61-dd3b-be04-47e5-023fc85365f1" name="250kg Bomb" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4522,7 +4522,7 @@
         </link>
       </links>
     </entry>
-    <entry id="25a3d572-465f-7cc8-d948-7f56723f6d7f" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="25a3d572-465f-7cc8-d948-7f56723f6d7f" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4555,9 +4555,9 @@
         </link>
       </links>
     </entry>
-    <entry id="2a237296-f81a-f06b-365d-1874c2de0edc" name="Commissar (Machine Gunner)" points="3.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="2a237296-f81a-f06b-365d-1874c2de0edc" name="Commissar (Machine Gunner)" points="3.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="6433bcd0-64a5-105f-c535-7a7bed7ef9c8" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="6433bcd0-64a5-105f-c535-7a7bed7ef9c8" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4592,9 +4592,9 @@
         </link>
       </links>
     </entry>
-    <entry id="2173f4e5-3ca2-285f-502a-021f43ed1ae8" name="Commissar (Submachine Gunner)" points="2.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="2173f4e5-3ca2-285f-502a-021f43ed1ae8" name="Commissar (Submachine Gunner)" points="2.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="56053537-06ec-b649-9041-464a68e3ec25" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="56053537-06ec-b649-9041-464a68e3ec25" name="Under-Barrel Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4609,7 +4609,7 @@
             </link>
           </links>
         </entry>
-        <entry id="61a44ca5-81f1-ab7c-8208-2766c5bd5c12" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="61a44ca5-81f1-ab7c-8208-2766c5bd5c12" name="PPSH-48 Submachine-Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4644,9 +4644,9 @@
         </link>
       </links>
     </entry>
-    <entry id="cded3ba7-9593-27e9-c612-296eb797974a" name="Commissar (Tank Hunter)" points="3.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="cded3ba7-9593-27e9-c612-296eb797974a" name="Commissar (Tank Hunter)" points="3.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="4b72bae1-da59-c870-55f5-3efb279d629d" name="PTRS-47 Bazooka" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="4b72bae1-da59-c870-55f5-3efb279d629d" name="PTRS-47 Bazooka" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -4684,7 +4684,7 @@
         </link>
       </links>
     </entry>
-    <entry id="51749540-614b-ca50-52e3-12c843421a73" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="51749540-614b-ca50-52e3-12c843421a73" name="DPM MG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4696,7 +4696,7 @@
         </link>
       </links>
     </entry>
-    <entry id="585dee08-1045-bcb9-c56d-cbd966961571" name="DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="585dee08-1045-bcb9-c56d-cbd966961571" name="DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4726,7 +4726,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="c6e22f2f-727e-a01e-f89a-322b41e180f0" name="DSHK 12.7mm Front" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="c6e22f2f-727e-a01e-f89a-322b41e180f0" name="DSHK 12.7mm Front" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4756,7 +4756,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="9855177d-e073-4a15-8393-fae2059fc185" name="DSHK 12.7mm Rear" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="9855177d-e073-4a15-8393-fae2059fc185" name="DSHK 12.7mm Rear" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4786,7 +4786,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="45d444c3-2411-fbb9-7602-488e9ab3dcf8" name="DSHK 12.7mm TSH" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="45d444c3-2411-fbb9-7602-488e9ab3dcf8" name="DSHK 12.7mm TSH" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4816,7 +4816,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="d0eb7c2b-2d9d-4e27-a619-03427d7e2ca8" name="Heavy Tesla Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="d0eb7c2b-2d9d-4e27-a619-03427d7e2ca8" name="Heavy Tesla Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4850,7 +4850,7 @@
         </link>
       </links>
     </entry>
-    <entry id="0734192a-c3d9-8a2e-864e-3312ed5217f5" name="Machete" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="0734192a-c3d9-8a2e-864e-3312ed5217f5" name="Machete" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="5" maxSelections="5" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4879,7 +4879,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="6fbf0d11-7f50-b128-3c21-bdc826d72cbd" name="Napalm Bomb" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="6fbf0d11-7f50-b128-3c21-bdc826d72cbd" name="Napalm Bomb" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4916,7 +4916,7 @@
         </link>
       </links>
     </entry>
-    <entry id="394adbf3-3739-ec93-0264-576d1e872066" name="Pincer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="394adbf3-3739-ec93-0264-576d1e872066" name="Pincer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4950,7 +4950,7 @@
         </link>
       </links>
     </entry>
-    <entry id="24d54bb7-ea26-9f18-2d01-5ab27a3df5b7" name="Quad DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="24d54bb7-ea26-9f18-2d01-5ab27a3df5b7" name="Quad DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4980,7 +4980,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="e71a4930-81e7-3e4c-b5c5-c9dc213f3ffe" name="RS-20 Rocket Pod" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="e71a4930-81e7-3e4c-b5c5-c9dc213f3ffe" name="RS-20 Rocket Pod" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -5014,7 +5014,7 @@
         </link>
       </links>
     </entry>
-    <entry id="b54b4318-1b9c-d95b-4b0f-b3e17f94ef58" name="Steel Glove" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="b54b4318-1b9c-d95b-4b0f-b3e17f94ef58" name="Steel Glove" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -5026,7 +5026,7 @@
         </link>
       </links>
     </entry>
-    <entry id="9a1681b6-887b-5b1d-df8a-9de5f05cdbf3" name="TT-46 Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="9a1681b6-887b-5b1d-df8a-9de5f05cdbf3" name="TT-46 Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -5055,7 +5055,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="d6c2adad-811f-22c5-a611-68a57980b414" name="Twin DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="d6c2adad-811f-22c5-a611-68a57980b414" name="Twin DSHK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -5069,9 +5069,9 @@
     </entry>
   </sharedEntries>
   <sharedEntryGroups>
-    <entryGroup id="b6b969ca-e94b-cb3d-d9b1-0cd362c084e4" name="Fortifcation" defaultEntryId="746a5871-82be-eeca-5c88-dcbcc44575fe" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false">
+    <entryGroup id="b6b969ca-e94b-cb3d-d9b1-0cd362c084e4" name="Fortifcation" defaultEntryId="746a5871-82be-eeca-5c88-dcbcc44575fe" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
-        <entry id="746a5871-82be-eeca-5c88-dcbcc44575fe" name="Strongpoint" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="746a5871-82be-eeca-5c88-dcbcc44575fe" name="Strongpoint" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -5079,7 +5079,7 @@
           <profiles/>
           <links/>
         </entry>
-        <entry id="eb6df512-f457-f511-4b38-49ca9d8186e9" name="Bunker" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="eb6df512-f457-f511-4b38-49ca9d8186e9" name="Bunker" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
