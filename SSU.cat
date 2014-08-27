@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="5" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="6" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="0048f150-bdb3-f27b-2319-b83017026cea" name="Air Ambulance" points="8.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
@@ -4483,6 +4483,60 @@
           <modifiers/>
         </link>
       </links>
+    </entry>
+    <entry id="a470ded4-14d7-1d51-aff2-1a284fc1a686" name="Red Cossack" points="13.0" categoryId="d78cc027-a9e9-a40f-cca6-6333e2739f64" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+      <entries>
+        <entry id="22cc5cdd-efe4-9660-1d3e-78a4ad5fb0fe" name="Dual 152mm ML-20S Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="318e503f-1bcc-9ece-4e9e-1c97fae21539" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Dual 152mm ML-20S Guns" hidden="false" page="0">
+              <characteristics>
+                <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
+                <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="16"/>
+                <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="*/4"/>
+                <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="*/3"/>
+                <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="*/2"/>
+                <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="*/1"/>
+                <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="2/#"/>
+                <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="2/#"/>
+                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="2/#"/>
+                <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="2/6"/>
+                <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="2/5"/>
+                <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="2/5"/>
+                <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="1/4"/>
+                <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="-"/>
+                <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="-"/>
+                <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="-"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules>
+        <rule id="4523f76b-e66f-e6db-e385-df19136a6e2e" name="Pilot: Nikolai" hidden="false">
+          <description>Nikolai is the only Hero that can pilot Red Cossack, although Red Cossack can be fielded without a Hero pilot. Red Cossack is unique, so only one may be fielded.</description>
+          <modifiers/>
+        </rule>
+      </rules>
+      <profiles>
+        <profile id="2e7d6b1b-fda8-1dc5-fb9d-b3da0ef040b5" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Red Cossack" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="7"/>
+            <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
+            <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V5"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links/>
     </entry>
   </entries>
   <rules/>
