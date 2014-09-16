@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="8ef2fe75-bde5-cb08-a904-1e2fe601c053" revision="5" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="Axis" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="8ef2fe75-bde5-cb08-a904-1e2fe601c053" revision="6" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="Axis" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="856b8e56-884f-7495-aed5-dab41631de1b" name="AB-47" points="9.0" categoryId="bbcb75d0-5169-4b14-1ca9-dff1d9b4996e" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
@@ -417,8 +417,8 @@
                 <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/1"/>
                 <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/1"/>
                 <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="4/1"/>
-                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="2/1"/>
-                <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/1"/>
+                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="3/1"/>
+                <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="2/1"/>
                 <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="1/1"/>
                 <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="1/1"/>
                 <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
@@ -556,7 +556,7 @@
         </link>
       </links>
     </entry>
-    <entry id="8166f2e2-7e9e-1604-6341-dd1fbf6cb1c4" name="Der Adler" points="17.0" categoryId="0809ba6a-2cb6-2b5e-81ba-68899d3b5829" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="8166f2e2-7e9e-1604-6341-dd1fbf6cb1c4" name="Adler" points="17.0" categoryId="0809ba6a-2cb6-2b5e-81ba-68899d3b5829" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="770d87df-39d3-1357-f623-14eefa7da85d" name="X-4 Missile" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
@@ -598,7 +598,7 @@
       <modifiers/>
       <rules/>
       <profiles>
-        <profile id="35b6c503-38f6-9994-406d-c9553fb6b224" profileTypeId="1501a0c7-39e2-22f9-345a-06ffa5c8ac55" name="Der Adler" hidden="false" page="0">
+        <profile id="35b6c503-38f6-9994-406d-c9553fb6b224" profileTypeId="1501a0c7-39e2-22f9-345a-06ffa5c8ac55" name="Adler" hidden="false" page="0">
           <characteristics>
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
@@ -614,7 +614,7 @@
         </link>
       </links>
     </entry>
-    <entry id="b85831e5-446d-30ca-302b-85f97dd3cdcf" name="Der Blitz" points="25.0" categoryId="0809ba6a-2cb6-2b5e-81ba-68899d3b5829" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="b85831e5-446d-30ca-302b-85f97dd3cdcf" name="Blitz" points="25.0" categoryId="0809ba6a-2cb6-2b5e-81ba-68899d3b5829" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="3c4da8c8-4b3f-903d-a1ce-77047090133f" name="Twin Bord-Laserkanone" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
@@ -624,7 +624,7 @@
           <profiles>
             <profile id="ec5adff0-387e-4341-aea5-1f12170dd89a" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Twin Bord-Laserkanone" hidden="false" page="0">
               <characteristics>
-                <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Frontq"/>
+                <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
                 <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="6"/>
                 <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="5/1"/>
                 <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="4/1"/>
@@ -655,7 +655,7 @@
       <modifiers/>
       <rules/>
       <profiles>
-        <profile id="3bad78dd-269c-ce66-14b6-ee23a03db89c" profileTypeId="1501a0c7-39e2-22f9-345a-06ffa5c8ac55" name="Der Blitz" hidden="false" page="0">
+        <profile id="3bad78dd-269c-ce66-14b6-ee23a03db89c" profileTypeId="1501a0c7-39e2-22f9-345a-06ffa5c8ac55" name="Blitz" hidden="false" page="0">
           <characteristics>
             <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
             <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
@@ -997,7 +997,7 @@
         </link>
       </links>
     </entry>
-    <entry id="548d8b3d-3e92-150b-d092-636dce7bd570" name="Festungs-Laserkanone" points="20.0" categoryId="e7069911-d999-7800-e256-b1f8752871e3" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="548d8b3d-3e92-150b-d092-636dce7bd570" name="Festungs-Laserkanone" points="21.0" categoryId="e7069911-d999-7800-e256-b1f8752871e3" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="d6ca7eb7-bd4c-282f-8c1a-ce6576243730" name="STG 47 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
@@ -1027,7 +1027,7 @@
                 <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="5/1"/>
                 <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="13/1"/>
                 <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="12/1"/>
-                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="11/"/>
+                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="11/1"/>
                 <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="10/1"/>
                 <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="9/1"/>
                 <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="8/1"/>
@@ -1127,7 +1127,7 @@
                 <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="**/3"/>
                 <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="**/#"/>
                 <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="**/#"/>
-                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="**/2"/>
+                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="**/3"/>
                 <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="**/3"/>
                 <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="**/3"/>
                 <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="**/3"/>
@@ -2096,7 +2096,7 @@
       <profiles>
         <profile id="6d0370dc-1e1f-14c2-0c85-2a38c8dec9af" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Loth" hidden="false" page="0">
           <characteristics>
-            <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track"/>
+            <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
             <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V4"/>
@@ -2429,7 +2429,7 @@
     </entry>
     <entry id="64fd9c7e-043c-0f44-89c5-d53bfe991689" name="Manfred" points="13.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="e21129fb-5627-d939-93c4-d2b14aa754ed" name="STG 44 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+        <entry id="e21129fb-5627-d939-93c4-d2b14aa754ed" name="STG 47 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -2698,7 +2698,7 @@
       <profiles>
         <profile id="00a1badf-f8b5-5299-59e9-c70c8ef6e8cf" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Nordwind II" hidden="false" page="0">
           <characteristics>
-            <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track"/>
+            <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="5"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
             <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="7"/>
             <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
@@ -3154,13 +3154,13 @@
                 <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="2/2"/>
                 <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/2"/>
                 <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/1"/>
-                <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="1/1"/>
-                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="1/1"/>
-                <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/1"/>
-                <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="1/1"/>
-                <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="1/1"/>
-                <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="1/1"/>
-                <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="1/1"/>
+                <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="-"/>
+                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="-"/>
+                <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
+                <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
+                <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
+                <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
+                <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
                 <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
                 <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
                 <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
@@ -3178,7 +3178,7 @@
       <entryGroups>
         <entryGroup id="a69f58d0-1240-7dd8-59ca-96352152f5cb" name="Sigrid von Thaler" defaultEntryId="f6bf0ab3-e1a1-8f91-6ca3-a87134d6e0ea" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="f6bf0ab3-e1a1-8f91-6ca3-a87134d6e0ea" name="Assassin" points="14.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+            <entry id="f6bf0ab3-e1a1-8f91-6ca3-a87134d6e0ea" name="Assassin" points="13.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -3201,7 +3201,26 @@
                 </rule>
               </rules>
               <profiles/>
-              <links/>
+              <links>
+                <link id="c3eac63b-d5ec-21ee-aa53-857ff4c9de06" targetId="242a4b80-1c5e-3d3a-5924-9c5ff1a47f8b" linkType="rule">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="2cd520b8-35cc-6c22-cfba-9e30138f100a" name="Assassin Pilot" points="14.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="3dd83f1f-1e17-2c2e-8f20-024c0ee032f6" targetId="3dd6dd45-ab2c-836a-09ab-1ea78a9ad2ce" linkType="entry">
+                  <modifiers/>
+                </link>
+                <link id="96efdab2-5ce9-89b7-841b-6e3000e451d2" targetId="242a4b80-1c5e-3d3a-5924-9c5ff1a47f8b" linkType="rule">
+                  <modifiers/>
+                </link>
+              </links>
             </entry>
           </entries>
           <entryGroups/>
@@ -3233,9 +3252,6 @@
           <modifiers/>
         </link>
         <link id="b22dd4ae-2470-26a1-9c0f-98a8b0b1ab40" targetId="167fe01f-cb37-3deb-1cc2-d0ff88046a67" linkType="rule">
-          <modifiers/>
-        </link>
-        <link id="0b219cb8-1949-b77b-fa30-b20838287dfa" targetId="242a4b80-1c5e-3d3a-5924-9c5ff1a47f8b" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -3578,7 +3594,7 @@
             <profile id="e1d677f6-8951-153c-0a98-858ab4f9a00d" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Quad 8.8cm FlakV 47 Guns" hidden="false" page="0">
               <characteristics>
                 <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
-                <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="1"/>
+                <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="18"/>
                 <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="**/2"/>
                 <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="**/1"/>
                 <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="**/1"/>
@@ -4474,7 +4490,7 @@
         </link>
       </links>
     </entry>
-    <entry id="696a8902-94b7-d36b-29de-a934075682ce" name="Twin Festungs-Laserkanone" points="30.0" categoryId="e7069911-d999-7800-e256-b1f8752871e3" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="696a8902-94b7-d36b-29de-a934075682ce" name="Twin Festungs-Laserkanone" points="31.0" categoryId="e7069911-d999-7800-e256-b1f8752871e3" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="07b2b186-2fb1-3f76-3829-a3cc6fa3a669" name="STG 47 Assault Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
