@@ -370,7 +370,7 @@
     </entry>
     <entry id="4e22adf9-2afa-e3c5-45d6-50eb1d208751" name="Fakyeli" points="9.0" categoryId="43cd9e7a-46cf-103f-d5da-1a3f38ab53fb" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="8d29b7b1-6d22-625f-efd6-f158d7083263" name="Sulfur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+        <entry id="8d29b7b1-6d22-625f-efd6-f158d7083263" name="Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -975,7 +975,7 @@
       <entryGroups/>
       <modifiers/>
       <rules>
-        <rule id="80a04399-7c4c-4bee-8031-d9b6d611f9db" name="Expert - 45mm Howtizer and Heavy Sulphur Jet" hidden="false" page="0">
+        <rule id="80a04399-7c4c-4bee-8031-d9b6d611f9db" name="Expert - 45mm Howitzer and Heavy Sulphur Jet" hidden="false" page="0">
           <description>Hits on rolls of Target as well as Symbol with VK916 and 45mm Howitzers and Heavy Sulphur Jets.</description>
           <modifiers/>
         </rule>
@@ -1010,13 +1010,13 @@
           <entries>
             <entry id="e8b7c7dc-c13f-e0aa-c9d9-327d3f1f246a" name="Nadya" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="83c3e10b-1967-7b7d-90f1-514c0fa913c3" name="Paired Heavy Sulfur Jets" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+                <entry id="83c3e10b-1967-7b7d-90f1-514c0fa913c3" name="Paired Heavy Sulphur Jets" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
                   <rules/>
                   <profiles>
-                    <profile id="1f483323-5d4b-5ef4-b146-8c40373d8cda" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Paired Heavy Sulfur Jets" hidden="false" page="0">
+                    <profile id="1f483323-5d4b-5ef4-b146-8c40373d8cda" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Paired Heavy Sulphur Jets" hidden="false" page="0">
                       <characteristics>
                         <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
                         <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="1"/>
@@ -1437,13 +1437,13 @@
             </entry>
             <entry id="dec77d8c-29e6-8581-af73-3e9168242ee9" name="Mikhail" points="9.0" categoryId="29b76100-e940-9c92-7f00-a7ad44e2f288" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
               <entries>
-                <entry id="06129bd3-a44a-e92f-c80c-23455434732a" name="Heavy Sulfur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+                <entry id="06129bd3-a44a-e92f-c80c-23455434732a" name="Heavy Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                   <entries/>
                   <entryGroups/>
                   <modifiers/>
                   <rules/>
                   <profiles>
-                    <profile id="cbf288d1-2165-da1f-4aa5-cd4345017c68" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Heavy Sulfur Jet" hidden="false" page="0">
+                    <profile id="cbf288d1-2165-da1f-4aa5-cd4345017c68" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Heavy Sulphur Jet" hidden="false" page="0">
                       <characteristics>
                         <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
                         <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="1"/>
@@ -4496,7 +4496,7 @@
     </entry>
     <entry id="ea33a506-4d79-3666-5a42-65d2a4823754" name="Yakov" points="15.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="6d2abfa0-2f1d-9ded-8b4b-665353e56598" name="Sulfur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+        <entry id="6d2abfa0-2f1d-9ded-8b4b-665353e56598" name="Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -5126,7 +5126,7 @@
     </entry>
   </sharedEntries>
   <sharedEntryGroups>
-    <entryGroup id="b6b969ca-e94b-cb3d-d9b1-0cd362c084e4" name="Fortifcation" defaultEntryId="746a5871-82be-eeca-5c88-dcbcc44575fe" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="b6b969ca-e94b-cb3d-d9b1-0cd362c084e4" name="Fortification" defaultEntryId="746a5871-82be-eeca-5c88-dcbcc44575fe" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="746a5871-82be-eeca-5c88-dcbcc44575fe" name="Strongpoint" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
@@ -5160,7 +5160,7 @@
       <modifiers/>
     </rule>
     <rule id="11e4620e-e258-1bce-9405-d3d4a6ca7253" name="Air Assault" hidden="false" page="0">
-      <description>Can be carried by an Airlifter, and can Activate after the Air Lifter carrying it to Dismount and Move on its own.</description>
+      <description>Can be carried by an Airlifter, and can Activate after the Airlifter carrying it to Dismount and Move on its own.</description>
       <modifiers/>
     </rule>
     <rule id="be34669e-4b9a-d25f-0ca2-ff3abb1142d7" name="Airlifter" hidden="false" page="0">
@@ -5240,7 +5240,7 @@
       <modifiers/>
     </rule>
     <rule id="8888111b-b930-6500-f648-35583674f47b" name="Follow Me" hidden="false" page="0">
-      <description>Can take a Follow Me Special Action once per turn. All friendly Infantry Units with Infantry Amror 1 or 2 within Range 2 (20cm or 8&quot;) and in Line of Sight roll a die. On a Smybol result they take an immediate Move Action with a Move rating of 2.</description>
+      <description>Can take a Follow Me Special Action once per turn. All friendly Infantry Units with Infantry Armour 1 or 2 within Range 2 (20cm or 8&quot;) and in Line of Sight roll a die. On a Symbol result they take an immediate Move Action with a Move rating of 2.</description>
       <modifiers/>
     </rule>
     <rule id="d658cbb7-b7f9-4cdf-d63d-eef5a0902ee8" name="Grapple" hidden="false" page="0">
@@ -5328,7 +5328,7 @@
       <modifiers/>
     </rule>
     <rule id="68631de2-19de-7a51-a26f-bb0643d88c40" name="Support Weapon" hidden="false" page="0">
-      <description>Support Weapons have three of four Soldiers on the same base. Survivng Soldiers choose which weapons to use for each attack.</description>
+      <description>Support Weapons have three of four Soldiers on the same base. Surviving Soldiers choose which weapons to use for each attack.</description>
       <modifiers/>
     </rule>
     <rule id="edd3fc37-2ee7-ca3b-b0f0-ae2fff336d97" name="Take Aim" hidden="false" page="0">
@@ -5437,7 +5437,7 @@
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="e05138c9-9216-0e6f-13cf-35fad44b6649" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Heavy Sulfur Jet" hidden="false" page="0">
+    <profile id="e05138c9-9216-0e6f-13cf-35fad44b6649" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Heavy Sulphur Jet" hidden="false" page="0">
       <characteristics>
         <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
         <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="1"/>

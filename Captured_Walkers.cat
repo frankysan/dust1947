@@ -84,7 +84,7 @@
         </link>
       </links>
     </entry>
-    <entry id="bb5dcda7-c006-9e7f-327c-c3bcf32794ed" name="Jadgluther" points="16.0" categoryId="6a923987-e5ac-c7e8-396b-e9132b67ddf8" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="bb5dcda7-c006-9e7f-327c-c3bcf32794ed" name="Jagdluther" points="16.0" categoryId="6a923987-e5ac-c7e8-396b-e9132b67ddf8" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="d1795e3b-809e-1968-c7d4-83e947346f4a" name="Dual 7.5cm FPKZW Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
@@ -151,7 +151,7 @@
       <modifiers/>
       <rules/>
       <profiles>
-        <profile id="27b2247d-cf29-bd92-54c0-1bfdf9bfe330" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Jadgluther" hidden="false" page="0">
+        <profile id="27b2247d-cf29-bd92-54c0-1bfdf9bfe330" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Jagdluther" hidden="false" page="0">
           <characteristics>
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="7"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>

@@ -1590,7 +1590,7 @@
     </entry>
     <entry id="69b29916-d7ed-1980-d682-9955be5c81bb" name="Hot Shots" points="8.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="6b487699-6f99-1546-d055-79db453f9ff7" name="M18 Recoiless Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+        <entry id="6b487699-6f99-1546-d055-79db453f9ff7" name="M18 Recoilless Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -1637,7 +1637,7 @@
         </link>
       </links>
     </entry>
-    <entry id="7315d88e-c782-ec3a-b6f1-ecb78c01607c" name="Hotdog" points="13.0" categoryId="fbe52e4c-73ad-7aa5-3eb1-4f1114307d27" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="7315d88e-c782-ec3a-b6f1-ecb78c01607c" name="Hot Dog" points="13.0" categoryId="fbe52e4c-73ad-7aa5-3eb1-4f1114307d27" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="8c99c7fc-1da4-1ad1-c82a-8fefe059d536" name="Napalm Thrower" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
@@ -1678,7 +1678,7 @@
       <modifiers/>
       <rules/>
       <profiles>
-        <profile id="1bcd445a-3d64-c861-8ec1-7b8f0eb823c0" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Hotdog" hidden="false" page="0">
+        <profile id="1bcd445a-3d64-c861-8ec1-7b8f0eb823c0" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Hot Dog" hidden="false" page="0">
           <characteristics>
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="6"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
@@ -2577,13 +2577,13 @@
     </entry>
     <entry id="b935f5d9-28d1-f736-6a79-da6977cd75c8" name="Pershing III" points="19.0" categoryId="d78cc027-a9e9-a40f-cca6-6333e2739f64" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="ec5fb2fd-c27f-377d-52e6-93536a39663f" name="Six M40 Recoiless Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+        <entry id="ec5fb2fd-c27f-377d-52e6-93536a39663f" name="Six M40 Recoilless Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
           <rules/>
           <profiles>
-            <profile id="4e44fafd-9374-d959-9c6a-6cda2fba2992" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Six M40 Recoiless Guns" hidden="false" page="0">
+            <profile id="4e44fafd-9374-d959-9c6a-6cda2fba2992" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Six M40 Recoilless Guns" hidden="false" page="0">
               <characteristics>
                 <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Turret"/>
                 <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="12"/>
@@ -3257,13 +3257,13 @@
     </entry>
     <entry id="79f9541f-7bd2-2b15-4fc6-2266e5259df1" name="Six Shooter" points="19.0" categoryId="d78cc027-a9e9-a40f-cca6-6333e2739f64" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="ed66417d-94c6-8012-8b82-6ef97e75e055" name="Six M40 Recoiless Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+        <entry id="ed66417d-94c6-8012-8b82-6ef97e75e055" name="Six M40 Recoilless Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
           <rules/>
           <profiles>
-            <profile id="5932d968-834c-6a9c-c8f1-c2950245dafd" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Six M40 Recoiless Guns" hidden="false" page="0">
+            <profile id="5932d968-834c-6a9c-c8f1-c2950245dafd" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Six M40 Recoilless Guns" hidden="false" page="0">
               <characteristics>
                 <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Turret"/>
                 <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="12"/>
@@ -4451,7 +4451,7 @@
         </link>
       </links>
     </entry>
-    <entry id="9147f3dc-c1cf-790d-037f-c0f1b7088edc" name="Six M40 Recoiless Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="9147f3dc-c1cf-790d-037f-c0f1b7088edc" name="Six M40 Recoilless Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -4730,7 +4730,7 @@
       <modifiers/>
     </rule>
     <rule id="1e653e7b-9cf3-2430-1313-aaf4b8563dba" name="Support Weapon" hidden="false" page="0">
-      <description>Support Weapons have three of four Soldiers on the same base. Survivng Soldiers choose which weapons to use for each attack.</description>
+      <description>Support Weapons have three of four Soldiers on the same base. Surviving Soldiers choose which weapons to use for each attack.</description>
       <modifiers/>
     </rule>
     <rule id="811d8a47-468c-be5d-adb5-d9c7b13d2ef4" name="Take Aim" hidden="false" page="0">
@@ -5063,7 +5063,7 @@
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="50ac42a3-8d2d-41d4-f2a2-8b3dc3af230a" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="M18 Recoiless Rifle" hidden="false" page="0">
+    <profile id="50ac42a3-8d2d-41d4-f2a2-8b3dc3af230a" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="M18 Recoilless Rifle" hidden="false" page="0">
       <characteristics>
         <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="8"/>
         <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="*/1"/>
@@ -5306,7 +5306,7 @@
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="5d157c53-767f-dc05-3fb6-caeb729e3d24" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Six M40 Recoiless Guns" hidden="false" page="0">
+    <profile id="5d157c53-767f-dc05-3fb6-caeb729e3d24" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Six M40 Recoilless Guns" hidden="false" page="0">
       <characteristics>
         <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Turret"/>
         <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="12"/>
