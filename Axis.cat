@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="8ef2fe75-bde5-cb08-a904-1e2fe601c053" revision="6" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.14b" name="Axis" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="8ef2fe75-bde5-cb08-a904-1e2fe601c053" revision="7" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.15" name="Axis" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="856b8e56-884f-7495-aed5-dab41631de1b" name="AB-47" points="9.0" categoryId="bbcb75d0-5169-4b14-1ca9-dff1d9b4996e" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
@@ -87,6 +87,64 @@
           <modifiers/>
         </link>
         <link id="8f809637-c9fa-6b30-7563-778918a87358" targetId="67a845a7-66dc-4f7d-a7ea-3d0685d6a206" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="8166f2e2-7e9e-1604-6341-dd1fbf6cb1c4" name="Adler" points="17.0" categoryId="0809ba6a-2cb6-2b5e-81ba-68899d3b5829" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+      <entries>
+        <entry id="770d87df-39d3-1357-f623-14eefa7da85d" name="X-4 Missile" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="b4717bcc-1f52-1bbe-e4f4-c82e4b512a47" name="Wire Guided" hidden="false" page="0">
+              <description>If Unit attacks with one missile and no other weapons, it re-roll misses for that missile as if making a Sustained Attack.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="defbf864-4b8a-b436-ba1c-b7423b3cd627" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="X-4 Missile" hidden="false" page="0">
+              <characteristics>
+                <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
+                <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="4"/>
+                <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="*/1"/>
+                <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="*/1"/>
+                <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="*/1"/>
+                <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="*/1"/>
+                <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="*/3"/>
+                <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="*/2"/>
+                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="*/2"/>
+                <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="*/1"/>
+                <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="*/1"/>
+                <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
+                <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
+                <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="1/8"/>
+                <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="1/8"/>
+                <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="1/7"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="35b6c503-38f6-9994-406d-c9553fb6b224" profileTypeId="1501a0c7-39e2-22f9-345a-06ffa5c8ac55" name="Adler" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
+            <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
+            <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="24"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A2"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="8e489e89-4abf-4ce6-2bf7-2c87daac1cc7" targetId="25d00cc3-420d-b98d-be21-cb633053880f" linkType="entry">
           <modifiers/>
         </link>
       </links>
@@ -334,6 +392,63 @@
         </link>
       </links>
     </entry>
+    <entry id="b85831e5-446d-30ca-302b-85f97dd3cdcf" name="Blitz" points="25.0" categoryId="0809ba6a-2cb6-2b5e-81ba-68899d3b5829" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+      <entries>
+        <entry id="3c4da8c8-4b3f-903d-a1ce-77047090133f" name="Twin Bord-Laserkanone" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="ec5adff0-387e-4341-aea5-1f12170dd89a" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Twin Bord-Laserkanone" hidden="false" page="0">
+              <characteristics>
+                <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
+                <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="6"/>
+                <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="5/1"/>
+                <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="4/1"/>
+                <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="4/1"/>
+                <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="3/1"/>
+                <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="10/1"/>
+                <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="9/1"/>
+                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="8/1"/>
+                <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="7/1"/>
+                <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="6/1"/>
+                <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="5/1"/>
+                <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="4/1"/>
+                <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="-"/>
+                <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="-"/>
+                <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="-"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="ed20ea63-4a28-a2b9-6241-1ffa27efd4d3" targetId="72476abb-2ac5-33d2-92b0-fe719cc74362" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="3bad78dd-269c-ce66-14b6-ee23a03db89c" profileTypeId="1501a0c7-39e2-22f9-345a-06ffa5c8ac55" name="Blitz" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
+            <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
+            <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="24"/>
+            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A2"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="c2318bbc-3335-b2ea-f5d2-81ca73706e4b" targetId="25d00cc3-420d-b98d-be21-cb633053880f" linkType="entry">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
     <entry id="a27c0981-f194-5d12-eb74-1cab1277bd66" name="Braineaters" points="9.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="2dd42459-5016-507b-320b-2f4de086abcc" name="MP 46 Submachine-gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="4" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
@@ -552,121 +667,6 @@
           <modifiers/>
         </link>
         <link id="23333ae9-ca39-a775-e38c-f49c9fe10061" targetId="34882505-fb88-e465-8a1d-d9bddea2996b" linkType="rule">
-          <modifiers/>
-        </link>
-      </links>
-    </entry>
-    <entry id="8166f2e2-7e9e-1604-6341-dd1fbf6cb1c4" name="Adler" points="17.0" categoryId="0809ba6a-2cb6-2b5e-81ba-68899d3b5829" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
-      <entries>
-        <entry id="770d87df-39d3-1357-f623-14eefa7da85d" name="X-4 Missile" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <rules>
-            <rule id="b4717bcc-1f52-1bbe-e4f4-c82e4b512a47" name="Wire Guided" hidden="false" page="0">
-              <description>If Unit attacks with one missile and no other weapons, it re-roll misses for that missile as if making a Sustained Attack.</description>
-              <modifiers/>
-            </rule>
-          </rules>
-          <profiles>
-            <profile id="defbf864-4b8a-b436-ba1c-b7423b3cd627" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="X-4 Missile" hidden="false" page="0">
-              <characteristics>
-                <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
-                <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="4"/>
-                <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="*/1"/>
-                <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="*/1"/>
-                <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="*/1"/>
-                <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="*/1"/>
-                <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="*/3"/>
-                <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="*/2"/>
-                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="*/2"/>
-                <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="*/1"/>
-                <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="*/1"/>
-                <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
-                <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
-                <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="1/8"/>
-                <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="1/8"/>
-                <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="1/7"/>
-              </characteristics>
-              <modifiers/>
-            </profile>
-          </profiles>
-          <links/>
-        </entry>
-      </entries>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles>
-        <profile id="35b6c503-38f6-9994-406d-c9553fb6b224" profileTypeId="1501a0c7-39e2-22f9-345a-06ffa5c8ac55" name="Adler" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
-            <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
-            <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="24"/>
-            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A2"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links>
-        <link id="8e489e89-4abf-4ce6-2bf7-2c87daac1cc7" targetId="25d00cc3-420d-b98d-be21-cb633053880f" linkType="entry">
-          <modifiers/>
-        </link>
-      </links>
-    </entry>
-    <entry id="b85831e5-446d-30ca-302b-85f97dd3cdcf" name="Blitz" points="25.0" categoryId="0809ba6a-2cb6-2b5e-81ba-68899d3b5829" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
-      <entries>
-        <entry id="3c4da8c8-4b3f-903d-a1ce-77047090133f" name="Twin Bord-Laserkanone" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <rules/>
-          <profiles>
-            <profile id="ec5adff0-387e-4341-aea5-1f12170dd89a" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Twin Bord-Laserkanone" hidden="false" page="0">
-              <characteristics>
-                <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
-                <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="6"/>
-                <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="5/1"/>
-                <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="4/1"/>
-                <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="4/1"/>
-                <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="3/1"/>
-                <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="10/1"/>
-                <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="9/1"/>
-                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="8/1"/>
-                <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="7/1"/>
-                <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="6/1"/>
-                <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="5/1"/>
-                <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="4/1"/>
-                <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="-"/>
-                <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="-"/>
-                <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="-"/>
-              </characteristics>
-              <modifiers/>
-            </profile>
-          </profiles>
-          <links>
-            <link id="ed20ea63-4a28-a2b9-6241-1ffa27efd4d3" targetId="72476abb-2ac5-33d2-92b0-fe719cc74362" linkType="rule">
-              <modifiers/>
-            </link>
-          </links>
-        </entry>
-      </entries>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles>
-        <profile id="3bad78dd-269c-ce66-14b6-ee23a03db89c" profileTypeId="1501a0c7-39e2-22f9-345a-06ffa5c8ac55" name="Blitz" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="a4875e7e-c956-c8de-a64e-7ff6b9fbfb06" name="Damage Track" value="6"/>
-            <characteristic characteristicId="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move" value="12"/>
-            <characteristic characteristicId="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move" value="24"/>
-            <characteristic characteristicId="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour" value="A2"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links>
-        <link id="c2318bbc-3335-b2ea-f5d2-81ca73706e4b" targetId="25d00cc3-420d-b98d-be21-cb633053880f" linkType="entry">
           <modifiers/>
         </link>
       </links>
@@ -1585,7 +1585,7 @@
         </link>
       </links>
     </entry>
-    <entry id="6dd46262-3a46-7d1d-5f84-7e00ab397c71" name="Jadgluther" points="14.0" categoryId="d78cc027-a9e9-a40f-cca6-6333e2739f64" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="6dd46262-3a46-7d1d-5f84-7e00ab397c71" name="Jagdluther" points="14.0" categoryId="d78cc027-a9e9-a40f-cca6-6333e2739f64" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="64ce6576-ae6d-9dcb-1691-3c99a7e22508" name="Dual 7.5cm FPKZW Guns" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
@@ -1622,7 +1622,7 @@
       <modifiers/>
       <rules/>
       <profiles>
-        <profile id="7d28b762-d0f2-321b-7344-31402baa618e" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Jadgluther" hidden="false" page="0">
+        <profile id="7d28b762-d0f2-321b-7344-31402baa618e" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Jagdluther" hidden="false" page="0">
           <characteristics>
             <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="7"/>
             <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>

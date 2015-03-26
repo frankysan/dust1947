@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="8" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.15" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="9" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.15" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="0048f150-bdb3-f27b-2319-b83017026cea" name="Air Ambulance" points="8.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
