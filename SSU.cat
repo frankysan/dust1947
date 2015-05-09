@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="9" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.15" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="ad634f24-aa33-2bad-c3a7-cda4f0a5417b" revision="10" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="1" battleScribeVersion="1.15" name="SSU" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="0048f150-bdb3-f27b-2319-b83017026cea" name="Air Ambulance" points="8.0" categoryId="657eb533-3fe8-3213-2ac2-25b4aa56dd2b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
@@ -5152,11 +5152,11 @@
   </sharedEntryGroups>
   <sharedRules>
     <rule id="cad76d74-8a69-39df-94ed-e8fb6df6e615" name="Ace Pilot" hidden="false" page="0">
-      <description>May mount a Vehicle, using her skills while in the Vehicle. Roll a die when the Vehicle Activates. On a Symbol or Target the Vehicle gains a third Action for this Activation.</description>
+      <description>May mount a Vehicle, using their skills while in the Vehicle. Roll a die when the Vehicle Activates. On a Symbol or Target, the Vehicle gains a third Action for this Activation.</description>
       <modifiers/>
     </rule>
     <rule id="4a209cfb-33c3-e16e-b15d-55628574fabc" name="Advanced Reactive Fire" hidden="false" page="0">
-      <description>Can attempt a Reactive Attack at up to Range 6, counting Shield and Symbol when rolling for number of Actions. Does not apply to Units Joined.</description>
+      <description>Can attempt a Reactive Attack at up to Range 6, counting Shield as Symbol when rolling for number of Actions. Does not apply to Units Joined.</description>
       <modifiers/>
     </rule>
     <rule id="11e4620e-e258-1bce-9405-d3d4a6ca7253" name="Air Assault" hidden="false" page="0">
@@ -5188,7 +5188,7 @@
       <modifiers/>
     </rule>
     <rule id="0da88868-77c3-d89b-9715-145c9efb2c91" name="Camouflage" hidden="false" page="0">
-      <description>Take Camouflage Action. If in Cover, only Units within Range 3 have Line of Sight to this Unit until it takes an Action other than Move, Artillery Observer, or Nothing. Start the game Camouflaged. Does not apply to Units Joined.</description>
+      <description>Take Camouflage Action. If in Cover, only Units closer than Range 3 (i.e. 0-2) have Line of Sight to this Unit until it takes an Action other than Move, Artillery Observer, or Nothing. Start the game Camouflaged. Does not apply to Units Joined.</description>
       <modifiers/>
     </rule>
     <rule id="52b9da12-312b-3fa6-5b43-5959ffeef885" name="Charge" hidden="false" page="0">
@@ -5256,11 +5256,11 @@
       <modifiers/>
     </rule>
     <rule id="50b56224-a757-1611-f4f4-03bed92775ab" name="Infantry Ace" hidden="false" page="0">
-      <description>Roll a die when the Infantry Ace activates. On a Symbol or Target she (and any Unit she has Joined) gains a third Action for this Activation.</description>
+      <description>Roll a die when the Infantry Ace activates. On a Symbol or Target they (and any Unit they have Joined) gains a third Action for this Activation.</description>
       <modifiers/>
     </rule>
     <rule id="0fd9e4e3-3adf-3369-82b5-b7d6a06c8529" name="Lucky" hidden="false" page="0">
-      <description>Once per game, may re-roll all of the dice for one weapon during their Attack action.</description>
+      <description>Once per game, may re-roll any or all of the dice for one weapon during their Attack action.</description>
       <modifiers/>
     </rule>
     <rule id="99c4c7d0-07bc-bdf7-f6a2-8a11534c2da3" name="Mechanic" hidden="false" page="0">
@@ -5280,7 +5280,7 @@
       <modifiers/>
     </rule>
     <rule id="4f22a905-fbac-04c0-8eb7-bc0e0afa11e3" name="Pilot" hidden="false" page="0">
-      <description>May mount a Vehicle, using his skills while in the Vehicle.</description>
+      <description>May mount a Vehicle, using their skills while in the Vehicle.</description>
       <modifiers/>
     </rule>
     <rule id="998434b1-9e7a-e800-c6d0-42fabd510937" name="Power Scope" hidden="false" page="0">
@@ -5328,7 +5328,7 @@
       <modifiers/>
     </rule>
     <rule id="68631de2-19de-7a51-a26f-bb0643d88c40" name="Support Weapon" hidden="false" page="0">
-      <description>Support Weapons have three of four Soldiers on the same base. Surviving Soldiers choose which weapons to use for each attack.</description>
+      <description>Support Weapons have three or four Soldiers on the same base. Surviving Soldiers choose which weapons to use for each attack.</description>
       <modifiers/>
     </rule>
     <rule id="edd3fc37-2ee7-ca3b-b0f0-ae2fff336d97" name="Take Aim" hidden="false" page="0">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="39bd06dd-8eca-57c2-31d1-89d41907b772" revision="5" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="2" battleScribeVersion="1.15" name="Captured Walkers" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="39bd06dd-8eca-57c2-31d1-89d41907b772" revision="6" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="2" battleScribeVersion="1.15" name="Captured Walkers" authorName="katfude" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="7aeb4b3a-b5ea-ef23-151d-91ce506c2b34" name="Heinrich (Trop)" points="9.0" categoryId="6a923987-e5ac-c7e8-396b-e9132b67ddf8" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
@@ -1030,7 +1030,7 @@
   <sharedEntryGroups/>
   <sharedRules>
     <rule id="1b30140a-34ed-7536-5bbe-2f46f24c86f3" name="Advanced Reactive Fire" hidden="false" page="0">
-      <description>Can attempt a Reactive Attack at up to Range 6, counting Shield and Symbol when rolling for number of Actions. Does not apply to Units Joined.</description>
+      <description>Can attempt a Reactive Attack at up to Range 6, counting Shield as Symbol when rolling for number of Actions. Does not apply to Units Joined.</description>
       <modifiers/>
     </rule>
     <rule id="5d35ffaa-67d2-6d28-b8c7-ba57373313f3" name="Airmobile" hidden="false" page="0">
