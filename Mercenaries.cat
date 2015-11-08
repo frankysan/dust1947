@@ -1,23 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="aa73a42e-9e96-e495-1bd8-3a8ef8a0e5a1" revision="3" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="2" battleScribeVersion="1.15" name="Mercenaries" authorName="katfude">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="4568-fee3-1dc6-089f" revision="1" gameSystemId="e37e48f3-bb87-e20a-cf08-355a001c0e6a" gameSystemRevision="4" battleScribeVersion="1.15" name="Mercs" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
-    <entry id="adebf386-210b-0e89-d00b-63a56bef4240" name="Red Yana" points="14.0" categoryId="c4dc95fb-d71a-2f02-0816-e91921e30294" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" hidden="false" page="0">
+    <entry id="bb3d-ec40-096c-47bb" name="Red Yana" points="14.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="45c6a3cf-1e1d-b6b6-182f-96c039ad4c73" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="4518-131b-30e4-adab" name="Auto Granade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
           <rules>
-            <rule id="070231b0-59cb-05ec-2298-0e9c03886302" name="Expert" hidden="false" page="0">
-              <description>Hits on rolls of Target as well as Symbol. Does not apply to Units Joined.</description>
+            <rule id="4257-bf54-845c-90da" name="Grenade" hidden="false" page="0">
+              <description>Target Infantry get no Cover Save from this weapon (but still have an Infantry Save).</description>
               <modifiers/>
             </rule>
-            <rule id="c44a4172-8c5d-db3d-487d-3431cbb22f01" name="Grenade" hidden="false" page="0">
-              <description>Target Infantry get no Cover Save from this weapon (but still have an Infantry Save).</description>
+            <rule id="54f6-619c-8fa8-3762" name="Expert" hidden="false" page="0">
+              <description>Hits on rolls of Target as well as Symbol. Does not apply to Units Joined.</description>
               <modifiers/>
             </rule>
           </rules>
           <profiles>
-            <profile id="07b4140a-d9bd-9102-f6c3-96d73bf9a73b" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Auto Grenade Launcher" hidden="false" page="0">
+            <profile id="d07a-4340-92ea-b1c4" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Auto Granade Launcher" hidden="false">
               <characteristics>
                 <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="3"/>
                 <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="*/1"/>
@@ -44,21 +45,21 @@
       <entryGroups/>
       <modifiers/>
       <rules>
-        <rule id="fa0788a2-d723-0924-8652-dada3f8dae9c" name="Mercenary Officer" hidden="false" page="0">
-          <description>Can be fielded by any Bloc. May take Officer Special Actions to reactivate or rearm Mercenary Units, or call in Mercenary reinforcements.</description>
+        <rule id="8ece-6e0c-a093-21b3" name="Mercenary Officer" hidden="false" page="0">
+          <description>Unit can be fielded by any bloc. May take Officer Special Actions to reactivate or rearm Mercenary troops, or call in mercenary reinforcements.</description>
           <modifiers/>
         </rule>
-        <rule id="6519f9e0-65f5-edec-12fc-3759b33ed76c" name="Infantry Ace" hidden="false" page="0">
+        <rule id="c086-15b9-9a86-309a" name="Infantry Ace" hidden="false" page="0">
           <description>Roll a die when the Infantry Ace activates. On a Symbol or Target she (and any Unit she has Joined) gains a third Action for this Activation.</description>
           <modifiers/>
         </rule>
-        <rule id="2e9fdedd-0edc-e87e-5194-8b82fde23742" name="Lucky" hidden="false" page="0">
+        <rule id="d95c-7333-345d-b997" name="Lucky" hidden="false" page="0">
           <description>Once per game, may re-roll all of the dice for one weapon during their Attack action.</description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="92dfef38-0903-4985-053d-70fcc12917a5" profileTypeId="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Red Yana" hidden="false" page="0">
+        <profile id="10b1-4d2f-7b04-6d06" profileTypeId="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Red Yana" hidden="false">
           <characteristics>
             <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
             <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="3"/>
@@ -70,20 +71,20 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="31a32c58-20b6-929a-d9c5-7154644ec1c6" name="Sisters of Demolition" points="8.0" categoryId="46b61540-0a40-0cd6-3e08-48a4aacaeedd" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+    <entry id="1797-9995-0b26-e0b9" name="Sisters of Demolition" points="8.0" categoryId="76227318-3362-ffb8-0460-e948cda200fe" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
-        <entry id="abe33885-98af-8e10-2aec-e8c629163043" name="Auto Grenade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="6c5f-8b2f-0c0a-ae40" name="3x Auto Granade Launcher" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
           <rules>
-            <rule id="724c565f-b6df-36e9-f935-b6f3c8e28a3d" name="Grenade" hidden="false" page="0">
+            <rule id="8b53-7ddd-94b9-5b1d" name="Grenade" hidden="false" page="0">
               <description>Target Infantry get no Cover Save from this weapon (but still have an Infantry Save).</description>
               <modifiers/>
             </rule>
           </rules>
           <profiles>
-            <profile id="c037d869-3f55-5da7-6a2e-d201aa76a9a9" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Auto Grenade Launcher" hidden="false" page="0">
+            <profile id="937c-0907-1285-46f9" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Auto Granade Launcher" hidden="false">
               <characteristics>
                 <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="3"/>
                 <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="*/1"/>
@@ -106,26 +107,26 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="76ea7af2-0538-050c-2bda-711357557c56" name="Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+        <entry id="7a06-892f-ecaa-f2d9" name="2x Sulphur Jet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
           <rules>
-            <rule id="95746df3-9eec-7190-19c8-89217692d12a" name="Flame" hidden="false" page="0">
+            <rule id="0ebe-437a-3ce2-a6e9" name="Flame" hidden="false" page="0">
               <description>Targets get no Saves from this weapon and are Suppressed.</description>
               <modifiers/>
             </rule>
           </rules>
           <profiles>
-            <profile id="2cb9b921-50a8-f7c1-bfaf-a05c70b60fc1" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Sulphur Jet" hidden="false" page="0">
+            <profile id="1c6c-bd81-f987-858d" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Sulphur Jet" hidden="false">
               <characteristics>
                 <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="1"/>
-                <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="*/#"/>
-                <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="*/#"/>
+                <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="*/+"/>
+                <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="*/+"/>
                 <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="*/2"/>
                 <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="*/2"/>
-                <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="*/#"/>
-                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="*/#"/>
+                <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="*/+"/>
+                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="*/+"/>
                 <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="*/2"/>
                 <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="*/2"/>
                 <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="*/2"/>
@@ -140,26 +141,103 @@
           </profiles>
           <links/>
         </entry>
-        <entry id="b5d9df79-a5b3-0f12-6db8-78010987460e" name="Demo Charge" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" hidden="false" page="0">
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules>
+        <rule id="d5df-a28e-c646-49fd" name="Coordinated Fire" hidden="false">
+          <description>All Auto Granade launcherin or joined to this unit combine fire into a blast template. Roll one die for each target miniature for each Auto Granade Launcher.</description>
+          <modifiers/>
+        </rule>
+        <rule id="e6f2-1d4d-f491-d5b2" name="Mercenary" hidden="false">
+          <description>Unit can be fielded by any bloc.</description>
+          <modifiers/>
+        </rule>
+      </rules>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="169d-9dab-1cff-61c2" name="Sisters of Mayhem" points="4.0" categoryId="b65bbf00-a157-7756-2040-07ec6f49cef9" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="226b-d5b3-f1b0-a994" name="1x DShK 12mm HMG" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
           <rules/>
           <profiles>
-            <profile id="583ba431-f0b3-771a-d7b2-6ca7b38ad827" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="Demo Charge" hidden="false" page="0">
+            <profile id="d570-2180-bbd5-f8c0" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="DShK 12mm HMG" hidden="false">
               <characteristics>
-                <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="C"/>
-                <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="1/3"/>
-                <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="1/3"/>
-                <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="1/3"/>
-                <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/3"/>
-                <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="1/2"/>
-                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="1/2"/>
-                <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="1/2"/>
-                <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="1/2"/>
-                <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="1/2"/>
-                <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="1/2"/>
-                <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="1/2"/>
+                <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
+                <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="8"/>
+                <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="9/2"/>
+                <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="9/2"/>
+                <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="7/1"/>
+                <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="5/1"/>
+                <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="5/2"/>
+                <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="4/1"/>
+                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="1/1"/>
+                <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="-"/>
+                <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="-"/>
+                <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
+                <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
+                <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="-"/>
+                <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="-"/>
+                <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="-"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links/>
+        </entry>
+        <entry id="a8d5-388f-e9f2-5b6b" name="1x M47 BAR Automatic Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="d58c-0cf5-e34d-1924" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="M47 BAR Automatic Rifle" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="6"/>
+                <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="4/1"/>
+                <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="3/1"/>
+                <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="2/1"/>
+                <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="1/1"/>
+                <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="2/1"/>
+                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="1/1"/>
+                <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
+                <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
+                <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
+                <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
+                <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
+                <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="2/1"/>
+                <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="1/1"/>
+                <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links/>
+        </entry>
+        <entry id="f234-e1a9-4886-86cc" name="1x MP47 Submachine Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="3b36-d212-f24d-56e4" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="MP47 Submachine Gun" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="2"/>
+                <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="6/1"/>
+                <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="5/1"/>
+                <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="3/1"/>
+                <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="-"/>
+                <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="-"/>
+                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="-"/>
+                <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="-"/>
+                <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4" value="-"/>
+                <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5" value="-"/>
+                <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6" value="-"/>
+                <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7" value="-"/>
                 <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="-"/>
                 <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="-"/>
                 <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="-"/>
@@ -173,21 +251,177 @@
       <entryGroups/>
       <modifiers/>
       <rules>
-        <rule id="fee567aa-85c6-5831-f36a-6523ede82754" name="Coordinated Fire" hidden="false" page="0">
-          <description>All Auto Grenade Launchers in or joined to this Unit targetting the same Unit must select the same target square or the same position for the centre of their Blast templates. Resolve all of their attacks at the same time, rolling 1 die for each Auto Grenade launcher against each miniature under the combined templates.</description>
+        <rule id="abea-6451-1753-f457" name="Support Weapon" hidden="false" page="0">
+          <description>Support Weapons have three of four Soldiers on the same base. Surviving Soldiers choose which weapons to use for each attack.</description>
           <modifiers/>
         </rule>
-        <rule id="9c183505-3791-c89d-8418-0f7f0a26c7a2" name="Mercenary" hidden="false" page="0">
-          <description>Can be fielded by any Bloc. Non-Mercenary Command Squad Special Actions cannot target a Mercenary Unit.</description>
+        <rule id="4fb2-965d-f03e-f7c6" name="Advanced Reactive Fire" hidden="false" page="0">
+          <description>Can attempt a Reactive Attack at up to Range 6, counting Shield and Symbol when rolling for number of Actions. Does not apply to Units Joined.</description>
+          <modifiers/>
+        </rule>
+        <rule id="b738-b170-3d9f-7a66" name="Mercenary" hidden="false">
+          <description>Unit can be fielded by any bloc.</description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="9a370395-bcce-a1ac-a6fd-0cc6a6cb184a" profileTypeId="41b56042-fab9-47e0-0812-0af86fc4caba" name="Sisters of Demolition" hidden="false" page="0">
+        <profile id="5774-f1f0-da20-42a0" profileTypeId="41b56042-fab9-47e0-0812-0af86fc4caba" name="Sisters of Mayhem" hidden="false">
           <characteristics>
-            <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="3"/>
-            <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="4"/>
+            <characteristic characteristicId="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move" value="1"/>
+            <characteristic characteristicId="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move" value="3"/>
             <characteristic characteristicId="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour" value="S1"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links/>
+    </entry>
+    <entry id="27a3-07de-f855-d5e2" name="Tanya" points="7.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="1d0c-578f-73df-21f0" name="DshK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="a624-aafc-0e2e-a4d6" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="DshK 12.7mm" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="6"/>
+                <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="5/2"/>
+                <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="5/2"/>
+                <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="4/1"/>
+                <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="3/1"/>
+                <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="3/2"/>
+                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="2/1"/>
+                <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="2/1"/>
+                <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4"/>
+                <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5"/>
+                <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6"/>
+                <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7"/>
+                <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="2/2"/>
+                <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="1/2"/>
+                <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="1/1"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules>
+        <rule id="f34c-e90f-c520-f799" name="Defensive Tactics" hidden="false">
+          <description>Gains &quot;Damage Resilient&quot; when in cover.</description>
+          <modifiers/>
+        </rule>
+        <rule id="44d3-f88a-a0b6-3c8f" name="Mercenary" hidden="false">
+          <description>Unit can be fielded by any bloc.</description>
+          <modifiers/>
+        </rule>
+      </rules>
+      <profiles>
+        <profile id="c2d6-7ce4-81ee-c363" profileTypeId="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Tanya" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
+            <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="3"/>
+            <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="4"/>
+            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links/>
+    </entry>
+    <entry id="ea8a-1168-0f9f-7989" name="Wrecker" points="11.0" categoryId="bbcb75d0-5169-4b14-1ca9-dff1d9b4996e" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="2ca0-374b-3c24-33f2" name="1x Quad Flak V 43" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="748a-a4c2-e662-95ec" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Quad Flak V 43" hidden="false" page="0">
+              <characteristics>
+                <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
+                <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="8"/>
+                <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="9/3"/>
+                <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="9/3"/>
+                <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="8/3"/>
+                <characteristic characteristicId="f8d85935-dc8d-ceab-8b59-185af6f07e21" name="S4" value="7/2"/>
+                <characteristic characteristicId="0de14c52-6109-fb8b-5a4c-f4c28b81e724" name="V1" value="5/3"/>
+                <characteristic characteristicId="29107c7e-8b35-1352-b0e8-8274e8e6fc9e" name="V2" value="5/2"/>
+                <characteristic characteristicId="7d9919e5-211a-348d-cc4a-75f55034aa11" name="V3" value="3/2"/>
+                <characteristic characteristicId="5126abc7-3036-a560-473c-95cc1ebd6083" name="V4" value="1/1"/>
+                <characteristic characteristicId="10e6e9fa-5b07-60dc-7c21-43fd0d321972" name="V5" value="-"/>
+                <characteristic characteristicId="f39e3ba7-f0f6-e8ce-827a-9f36af8f38b4" name="V6" value="-"/>
+                <characteristic characteristicId="95df902a-0d91-60fb-d501-90ba12e3f256" name="V7" value="-"/>
+                <characteristic characteristicId="3d408739-3c19-38d5-ed51-5bf195e61965" name="A1" value="4/2"/>
+                <characteristic characteristicId="afbc1d34-5c65-e8a1-6226-84be59697cb2" name="A2" value="3/2"/>
+                <characteristic characteristicId="cc1450a8-c61a-8715-5533-2175e5923685" name="A3" value="1/1"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links/>
+        </entry>
+        <entry id="fa9c-326a-f2dc-9dbb" name="1x DshK 12.7mm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="c4a8-3cae-b443-b748" profileTypeId="6c4a1962-9409-6e62-9ea7-e81c4935e4fa" name="DshK 12.7mm" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="382f5f95-0919-db20-9901-aa54bc211abf" name="Range" value="6"/>
+                <characteristic characteristicId="9f313303-9a76-64ed-6657-e3b18cdf1022" name="S1" value="5/2"/>
+                <characteristic characteristicId="2fd57814-fb96-57cd-78e5-048c1e328a32" name="S2" value="5/2"/>
+                <characteristic characteristicId="21997c06-620b-2dc6-ee6e-6f0b06c06b70" name="S3" value="4/1"/>
+                <characteristic characteristicId="9c177689-a2b1-8777-3393-bd39db9df6f9" name="S4" value="3/1"/>
+                <characteristic characteristicId="4acce298-41c6-ac29-6442-02e5e62f87c5" name="V1" value="3/2"/>
+                <characteristic characteristicId="ae7f079b-f6e8-7a6e-fa5c-8448667ec4e1" name="V2" value="2/1"/>
+                <characteristic characteristicId="dd544bcd-65f3-f239-9b6e-9a6342e49bac" name="V3" value="2/1"/>
+                <characteristic characteristicId="a27828e2-0dc0-c181-1699-be334623891d" name="V4"/>
+                <characteristic characteristicId="2e7ddbf4-add2-7c6a-e399-f39b4cddfb09" name="V5"/>
+                <characteristic characteristicId="c95029b6-a3de-69ec-b3f0-0d150370d270" name="V6"/>
+                <characteristic characteristicId="36d7cfe6-023a-0dfe-e736-812d153c4fcc" name="V7"/>
+                <characteristic characteristicId="bf377d08-6032-da4e-f38f-cab8ee40f265" name="A1" value="2/2"/>
+                <characteristic characteristicId="0bb5675e-a53a-ae6e-1343-8cd4702c13a7" name="A2" value="1/2"/>
+                <characteristic characteristicId="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3" value="1/1"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules>
+        <rule id="0bc7-6289-e3bc-95a0" name="Airmobile" hidden="false" page="0">
+          <description>Can be carried by an Airlifter.</description>
+          <modifiers/>
+        </rule>
+        <rule id="3949-bee9-4434-f058" name="Damage Resilient" hidden="false" page="0">
+          <description>Roll a die for each point of Damage done to miniature. On a Symbol result, a point of Damage is cancelled. Does not apply to units joined.</description>
+          <modifiers/>
+        </rule>
+        <rule id="088c-58cb-b321-567d" name="Mercenary" hidden="false">
+          <description>Unit can be fielded by any bloc.</description>
+          <modifiers/>
+        </rule>
+        <rule id="9d99-28f0-6e5c-bbf2" name="Smoke Launchers" hidden="false" page="0">
+          <description>Once per game, take Smoke Launchers Action to place Smoke on Unit.</description>
+          <modifiers/>
+        </rule>
+      </rules>
+      <profiles>
+        <profile id="5ad0-e2cd-c42c-57db" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Wrecker" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="3"/>
+            <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="3"/>
+            <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V2"/>
           </characteristics>
           <modifiers/>
         </profile>
@@ -199,6 +433,51 @@
   <links/>
   <sharedEntries/>
   <sharedEntryGroups/>
-  <sharedRules/>
+  <sharedRules>
+    <rule id="a15e-b0f1-a399-b3f8" name="Advanced Reactive Fire" hidden="false" page="0">
+      <description>Can attempt a Reactive Attack at up to Range 6, counting Shield and Symbol when rolling for number of Actions. Does not apply to Units Joined.</description>
+      <modifiers/>
+    </rule>
+    <rule id="2ccd-5e6b-103a-ed4d" name="Coordinated Fire" hidden="false">
+      <description>All Auto Granade launcherin or joined to this unit combine fire into a blast template. Roll one die for each target miniature for each Auto Granade Launcher.</description>
+      <modifiers/>
+    </rule>
+    <rule id="e850-6afd-5df2-0076" name="Defensive Tactics" hidden="false">
+      <description>Gains &quot;Damage Resilient&quot; when in cover.</description>
+      <modifiers/>
+    </rule>
+    <rule id="e828-f6e2-321a-0fd1" name="Expert" hidden="false" page="0">
+      <description>Hits on rolls of Target as well as Symbol. Does not apply to Units Joined.</description>
+      <modifiers/>
+    </rule>
+    <rule id="db73-92e3-8dc6-e9fd" name="Flame" hidden="false" page="0">
+      <description>Targets get no Saves from this weapon and are Suppressed.</description>
+      <modifiers/>
+    </rule>
+    <rule id="39d0-25c1-2ebc-e88e" name="Grenade" hidden="false" page="0">
+      <description>Target Infantry get no Cover Save from this weapon (but still have an Infantry Save).</description>
+      <modifiers/>
+    </rule>
+    <rule id="c289-6ba4-a219-8408" name="Infantry Ace" hidden="false" page="0">
+      <description>Roll a die when the Infantry Ace activates. On a Symbol or Target she (and any Unit she has Joined) gains a third Action for this Activation.</description>
+      <modifiers/>
+    </rule>
+    <rule id="374d-c68c-a99a-d3e9" name="Lucky" hidden="false" page="0">
+      <description>Once per game, may re-roll all of the dice for one weapon during their Attack action.</description>
+      <modifiers/>
+    </rule>
+    <rule id="2ab2-c3d6-5796-a787" name="Mercenary" hidden="false">
+      <description>Unit can be fielded by any bloc.</description>
+      <modifiers/>
+    </rule>
+    <rule id="38e0-e18c-c075-039b" name="Mercenary Officer" hidden="false" page="0">
+      <description>May take Officer Special Actions to reactivate or rearm Mercenary troops, or call in mercenary reinforcements.</description>
+      <modifiers/>
+    </rule>
+    <rule id="f92b-83a1-ee20-408a" name="Support Weapon" hidden="false" page="0">
+      <description>Support Weapons have three of four Soldiers on the same base. Surviving Soldiers choose which weapons to use for each attack.</description>
+      <modifiers/>
+    </rule>
+  </sharedRules>
   <sharedProfiles/>
 </catalogue>
