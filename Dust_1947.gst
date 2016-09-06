@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="e37e48f3-bb87-e20a-cf08-355a001c0e6a" revision="4" battleScribeVersion="1.14b" name="Dust Tactics/Battlefield" authorName="katfude" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="bacf-9ebb-dbda-57d0" revision="0" battleScribeVersion="1.15" name="Dust 1947" authorName="Franky" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <forceTypes>
-    <forceType id="97f291bb-995f-0bfb-0b04-3644de836546" name="Main Faction" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
+    <forceType id="97f291bb-995f-0bfb-0b04-3644de836546" name="Main Bloc" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
       <categories>
         <category id="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" name="Heroes" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
           <modifiers/>
@@ -57,18 +57,7 @@
       </categories>
       <forceTypes/>
     </forceType>
-    <forceType id="955023c2-9708-6804-8d73-5c7242327096" name="Mercenaries" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
-      <categories>
-        <category id="c4dc95fb-d71a-2f02-0816-e91921e30294" name="Heroes" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
-          <modifiers/>
-        </category>
-        <category id="46b61540-0a40-0cd6-3e08-48a4aacaeedd" name="Infantry 1" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
-          <modifiers/>
-        </category>
-      </categories>
-      <forceTypes/>
-    </forceType>
-    <forceType id="098c1d71-ee65-110f-a2ee-85ec31e8a353" name="Captured Walkers" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
+    <forceType id="098c1d71-ee65-110f-a2ee-85ec31e8a353" name="Captured Vehicles" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
       <categories>
         <category id="5b653694-3ee6-eada-5846-7c02129bc43a" name="Allies" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
           <modifiers/>
@@ -103,11 +92,12 @@
         <characteristic id="4946dc2d-5011-1098-c878-f3ab3bc8477f" name="A3"/>
       </characteristics>
     </profileType>
-    <profileType id="41b56042-fab9-47e0-0812-0af86fc4caba" name="Unit">
+    <profileType id="41b56042-fab9-47e0-0812-0af86fc4caba" name="Infantry">
       <characteristics>
         <characteristic id="5c7c3ab5-1c5d-c101-1cbb-0352fdf58869" name="Move"/>
         <characteristic id="b83a82fd-4a1a-6698-9305-9f3ef7e57f48" name="March Move"/>
         <characteristic id="aeef742f-0070-cf7b-3fba-92583ccc1fd7" name="Armour"/>
+        <characteristic id="0487-5495-4e79-1ee5" name="Faction"/>
       </characteristics>
     </profileType>
     <profileType id="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Heroes">
@@ -116,6 +106,7 @@
         <characteristic id="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move"/>
         <characteristic id="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move"/>
         <characteristic id="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour"/>
+        <characteristic id="4a5a-a591-3db6-3a03" name="Faction"/>
       </characteristics>
     </profileType>
     <profileType id="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Vehicle">
@@ -124,6 +115,7 @@
         <characteristic id="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move"/>
         <characteristic id="7efff746-66c0-c275-304c-6339ff7da914" name="March Move"/>
         <characteristic id="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour"/>
+        <characteristic id="fbc5-7d00-f9de-443e" name="Faction"/>
       </characteristics>
     </profileType>
     <profileType id="51c4cbbb-feba-838a-7356-102e85a51f40" name="Vehicle Weapons">
@@ -152,6 +144,7 @@
         <characteristic id="7a690179-d56f-004e-6a34-c3a14d4c3376" name="Move"/>
         <characteristic id="b1da6799-c077-585e-f50d-c08ae11442cb" name="March Move"/>
         <characteristic id="a07bf5c0-8890-4aa0-4507-ff193a2330d9" name="Armour"/>
+        <characteristic id="3d43-5c23-56e1-83af" name="Faction"/>
       </characteristics>
     </profileType>
     <profileType id="4c7e5a31-9ebb-047b-c784-ddb4ae29b228" name="Support Weapons/Fortifications">
@@ -160,6 +153,7 @@
         <characteristic id="be56f73e-3478-29fa-0f81-d47357fefa54" name="Move"/>
         <characteristic id="3b967438-aba2-3297-ea7f-b7ce59b6c178" name="March Move"/>
         <characteristic id="7e578297-b2b3-8316-ed51-b1b8e4a800c5" name="Armour"/>
+        <characteristic id="5314-4eb8-e9bf-4727" name="Faction"/>
       </characteristics>
     </profileType>
   </profileTypes>
