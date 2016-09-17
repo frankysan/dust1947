@@ -493,7 +493,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="65bb-6b9d-695e-ed07" name="Bushmaster" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="65bb-6b9d-695e-ed07" name="Bushmaster" defaultEntryId="19b2-4d48-2b42-2469" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
             <entry id="19b2-4d48-2b42-2469" name="Bushmaster" points="0.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
@@ -514,7 +514,7 @@
               </profiles>
               <links/>
             </entry>
-            <entry id="3de9-52dc-b24c-8109" name="Rattlesnake" points="0.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3de9-52dc-b24c-8109" name="Rattlesnake" points="1.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries>
                 <entry id="267a-9acc-ede0-4ba4" name="Submachine Gun (Turret)" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
                   <entries/>
@@ -562,7 +562,7 @@
       <profiles/>
       <links/>
     </entry>
-    <entry id="aece-fbff-511e-1c9c" name="Captain Ledger" points="8.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="aece-fbff-511e-1c9c" name="Captain Ledger" points="8.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="fd64-2683-bc25-29f1" name="BAR Automatic Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -669,7 +669,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="15b2-d011-2dac-0a71" name="Costa" points="6.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="15b2-d011-2dac-0a71" name="Costa" points="6.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="3825-cbd8-2904-8209" name="BAR Automatic Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -930,7 +930,7 @@
         </link>
       </links>
     </entry>
-    <entry id="5578-afc5-77b4-b568" name="Di Giorgio" points="6.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="5578-afc5-77b4-b568" name="Di Giorgio" points="6.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="7df9-6abc-46ef-ea11" name="Machinegun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -966,7 +966,7 @@
         </link>
       </links>
     </entry>
-    <entry id="dd5d-49dc-d4dd-c922" name="Diver" points="9.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="dd5d-49dc-d4dd-c922" name="Diver" points="9.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="0dde-729d-e604-c24f" name="Submachine Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -985,7 +985,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="3c4a-f826-a42c-7083" name="New Entry Group" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="3c4a-f826-a42c-7083" name="Diver" defaultEntryId="40e3-772a-e9cf-3caa" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
             <entry id="40e3-772a-e9cf-3caa" name="Diver (USMC)" points="0.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
@@ -1289,7 +1289,7 @@
         </link>
       </links>
     </entry>
-    <entry id="0d96-079a-9bdf-7ea9" name="Gilmore" points="4.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="0d96-079a-9bdf-7ea9" name="Gilmore" points="4.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="0cf7-b7a8-fd08-a9ea" name="BAR Automatic Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -1634,7 +1634,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="a54b-d48c-76b2-47ef" name="Jack" points="7.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="a54b-d48c-76b2-47ef" name="Jack" points="7.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="1c0e-53be-9dca-8074" name="BAR Automatic Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -1844,7 +1844,7 @@
         </link>
       </links>
     </entry>
-    <entry id="8a09-1d98-69d7-87b2" name="Machete Mack (BAR)" points="9.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="8a09-1d98-69d7-87b2" name="Machete Mack" points="7.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="bf84-12d5-279c-82f9" name="BAR Automatic Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
@@ -1874,21 +1874,112 @@
           </links>
         </entry>
       </entries>
-      <entryGroups/>
+      <entryGroups>
+        <entryGroup id="b878-e2ac-da78-f80e" name="Machete Mack" defaultEntryId="635e-ca8b-a311-826b" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="635e-ca8b-a311-826b" name="Machete Mack (BAR)" points="2.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries>
+                <entry id="c26c-dc4c-85d9-a649" name="Dual Machetes" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links>
+                    <link id="198e-d04d-68ff-1ab6" targetId="9cdf-3550-6fe9-927b" linkType="profile">
+                      <modifiers/>
+                    </link>
+                  </links>
+                </entry>
+                <entry id="eece-a9d6-b0fb-fbdf" name="BAR Automatic Rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links>
+                    <link id="35a6-71ef-ec30-d733" targetId="abe2a97f-4d0d-e43d-f642-5d8b01e36190" linkType="profile">
+                      <modifiers/>
+                    </link>
+                    <link id="7c3b-a3a5-6a31-76a3" targetId="982782f6-8dd0-f8c8-10d0-15e640561c66" linkType="rule">
+                      <modifiers/>
+                    </link>
+                  </links>
+                </entry>
+              </entries>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="a345-5874-7a71-b86d" profileTypeId="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Machete Mack" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
+                    <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
+                    <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+                    <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
+                    <characteristic characteristicId="4a5a-a591-3db6-3a03" name="Faction" value="USMC"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="a15c-d53d-59c5-ee21" name="Machete Mack (Machetes)" points="0.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries>
+                <entry id="5665-ac16-9f28-acd3" name="Dual Machetes" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links>
+                    <link id="fdd4-5fd4-138e-c561" targetId="9cdf-3550-6fe9-927b" linkType="profile">
+                      <modifiers/>
+                    </link>
+                    <link id="270f-e571-0d7c-5f1b" targetId="982782f6-8dd0-f8c8-10d0-15e640561c66" linkType="rule">
+                      <modifiers/>
+                    </link>
+                  </links>
+                </entry>
+                <entry id="321c-5082-409f-c540" name="Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries/>
+                  <entryGroups/>
+                  <modifiers/>
+                  <rules/>
+                  <profiles/>
+                  <links>
+                    <link id="016b-e9f6-6dea-a594" targetId="dde9-378e-ee71-d3bc" linkType="profile">
+                      <modifiers/>
+                    </link>
+                  </links>
+                </entry>
+              </entries>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="27df-4c96-8ad6-9247" profileTypeId="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Machete Mack" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
+                    <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
+                    <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
+                    <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
+                    <characteristic characteristicId="4a5a-a591-3db6-3a03" name="Faction" value="USMC"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+      </entryGroups>
       <modifiers/>
       <rules/>
-      <profiles>
-        <profile id="33ab-91bf-08fa-94c2" profileTypeId="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Machete Mack" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
-            <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
-            <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
-            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
-            <characteristic characteristicId="4a5a-a591-3db6-3a03" name="Faction" value="USMC"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
+      <profiles/>
       <links>
         <link id="5f15-d327-4b8b-24a4" targetId="8328c82a-21c3-052d-efb3-e374eef95c87" linkType="rule">
           <modifiers/>
@@ -1897,63 +1988,6 @@
           <modifiers/>
         </link>
         <link id="4aad-03cf-6462-1e04" targetId="0d7c-0dd9-d955-7780" linkType="rule">
-          <modifiers/>
-        </link>
-      </links>
-    </entry>
-    <entry id="8e18-9836-39de-5052" name="Machete Mack (Machetes)" points="7.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries>
-        <entry id="1635-2225-3419-53c1" name="Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="4387-ea2c-7d8e-2ac1" targetId="dde9-378e-ee71-d3bc" linkType="profile">
-              <modifiers/>
-            </link>
-          </links>
-        </entry>
-        <entry id="c598-ecdd-5fa1-db27" name="Dual Machetes" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="0189-6a37-1cb6-4e58" targetId="9cdf-3550-6fe9-927b" linkType="profile">
-              <modifiers/>
-            </link>
-            <link id="0e57-bc57-de78-a4e2" targetId="982782f6-8dd0-f8c8-10d0-15e640561c66" linkType="rule">
-              <modifiers/>
-            </link>
-          </links>
-        </entry>
-      </entries>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles>
-        <profile id="8487-0fc6-f7e7-efd5" profileTypeId="cdc60b3a-77a5-d5f7-bfbc-40fa73d6902b" name="Machete Mack (Machetes)" hidden="false">
-          <characteristics>
-            <characteristic characteristicId="4df5bfce-f8de-996b-b151-521ceb1ffe6a" name="Damage Track" value="4"/>
-            <characteristic characteristicId="44ed5a71-9e76-fc25-7fcf-46df82ff75eb" name="Move" value="2"/>
-            <characteristic characteristicId="c508ae09-edfd-4a55-8027-3b3099af5e01" name="March Move" value="5"/>
-            <characteristic characteristicId="ec77eb83-dbb3-c773-ca88-53b8207beda6" name="Armour" value="S1"/>
-            <characteristic characteristicId="4a5a-a591-3db6-3a03" name="Faction" value="USMC"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links>
-        <link id="5877-5f15-de15-449e" targetId="8328c82a-21c3-052d-efb3-e374eef95c87" linkType="rule">
-          <modifiers/>
-        </link>
-        <link id="8dc9-a9e8-39c1-d406" targetId="a760c970-4ff5-6f82-e5b0-61caba6d81f3" linkType="rule">
-          <modifiers/>
-        </link>
-        <link id="7c9c-b2fc-eac1-3c08" targetId="0d7c-0dd9-d955-7780" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -3382,7 +3416,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="7364-7a7a-1485-efb5" name="Recon Mickey" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="7364-7a7a-1485-efb5" name="Recon Mickey" defaultEntryId="4942-b33b-6874-f01f" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
             <entry id="4942-b33b-6874-f01f" name="Recon Mickey" points="0.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
@@ -4172,7 +4206,7 @@
       </profiles>
       <links/>
     </entry>
-    <entry id="5916-ff75-145e-8635" name="Tom" points="11.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="5916-ff75-145e-8635" name="Tom" points="11.0" categoryId="9f916fbe-6a7d-bb77-2b8a-7b9d16261e99" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="ebe9-8617-c4c9-1d8f" name="Pistol" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
@@ -4934,7 +4968,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="d0fd-d094-db2f-8d76" name="Wildfire" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="d0fd-d094-db2f-8d76" name="Wildfire" defaultEntryId="392d-e979-dfdc-04a9" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
             <entry id="392d-e979-dfdc-04a9" name="Wildfire" points="0.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
@@ -5167,10 +5201,6 @@
       <description>To take an Air Traffic Control Special Action, select an Aircraft in line of sight and on a result of [bloc] the selected Aircraft activates again.</description>
       <modifiers/>
     </rule>
-    <rule id="d847332c-ff2e-2bfb-46a2-2d6471578caa" name="Amphibious (old)" hidden="false" page="0">
-      <description>Can move through Water as if it were Open Space.</description>
-      <modifiers/>
-    </rule>
     <rule id="e6d6-e52e-4d8f-af0f" name="And Stay Down" hidden="false">
       <description>Any Unit Hit by ranged weapons fired by this Unit automatically gains a Suppression token.</description>
       <modifiers/>
@@ -5231,20 +5261,8 @@
       <description>If this Hero performs a March Move with the Vehicle he is piloting it receives a Cover Save until his next Activation.</description>
       <modifiers/>
     </rule>
-    <rule id="f4e9179e-b42e-58eb-65df-505184d02f7a" name="Crew (old)" hidden="false" page="0">
-      <description>May attack with either vehicle or crew weapons.</description>
-      <modifiers/>
-    </rule>
     <rule id="b7421465-7700-5f4b-861c-a56e27d595c9" name="Cutting" hidden="false" page="0">
       <description>When weapon hits, roll again scoring another hit on a [bloc]. Keep rolling until failing to hit.</description>
-      <modifiers/>
-    </rule>
-    <rule id="f20944ee-717f-0dfa-695d-7ed4caf3d767" name="Damage Resilient (old)" hidden="false" page="0">
-      <description>Roll a die for each point of Damage done to miniature. On a Symbol result, a point of Damage is cancelled. Does not apply to units joined.</description>
-      <modifiers/>
-    </rule>
-    <rule id="0465dda9-2652-b1f3-1bd0-170bf956891b" name="Defensive Tactics (old)" hidden="false" page="0">
-      <description>Gains Damage Resilient when in Cover. Applies to Units Joined as well.</description>
       <modifiers/>
     </rule>
     <rule id="d8e92d30-960b-c231-31b1-19f729bc3414" name="Dozer Blade" hidden="false" page="0">
@@ -5281,10 +5299,6 @@
     </rule>
     <rule id="3374a766-146c-d41d-e4e2-570b866e4213" name="Grenade" hidden="false" page="0">
       <description>Target Infantry receive no Cover Save from this weapon but still receive Infantry Save.</description>
-      <modifiers/>
-    </rule>
-    <rule id="d51b-8884-189c-512c" name="Half Tracked (old)" hidden="false">
-      <description>Roll when moving though terrain, halting if you score a Target or a Shield.</description>
       <modifiers/>
     </rule>
     <rule id="c821-0c96-6b9e-a7a5" name="Helicopter" hidden="false">
@@ -5335,24 +5349,8 @@
       <description>May take Officer Special Actions to reactivate or rearm their troops.</description>
       <modifiers/>
     </rule>
-    <rule id="e1b5-0d23-eef0-5512" name="Passengers (12) (old)" hidden="false" page="0">
-      <description>Can carry twelve Infantry with Armour 1 or 2 or six Infantry with Armour 3 or 4.</description>
-      <modifiers/>
-    </rule>
-    <rule id="35dd-d949-c395-27a8" name="Passengers (2) (old)" hidden="false" page="0">
-      <description>Can carry two Infantry with Armour 1 or 2 or one Infantry with Armour 3 or 4.</description>
-      <modifiers/>
-    </rule>
-    <rule id="cfaa-93da-7bb4-5463" name="Passengers (4) (old)" hidden="false" page="0">
-      <description>Can carry four Infantry with Armour 1 or 2 or two Infantry with Armour 3 or 4.</description>
-      <modifiers/>
-    </rule>
     <rule id="079ee2d7-2f7c-3580-0ef2-f32975e2c589" name="Passengers (6)" hidden="false" page="0">
       <description>Can carry six Infantry with Armour 1 or 2 or three Infantry with Armour 3 or 4.</description>
-      <modifiers/>
-    </rule>
-    <rule id="0da7-50d9-b0ec-3d0f" name="Passengers (8) (old)" hidden="false" page="0">
-      <description>Can carry eight Infantry with Armour 1 or 2 or four Infantry with Armour 3 or 4.</description>
       <modifiers/>
     </rule>
     <rule id="846fac29-98d6-3e45-c563-a090a4323029" name="Phaser" hidden="false" page="0">
@@ -5411,14 +5409,6 @@
       <description>Support Weapons have multiple Soldiers on the same base. Surviving Soldiers choose which weapons to use.</description>
       <modifiers/>
     </rule>
-    <rule id="811d8a47-468c-be5d-adb5-d9c7b13d2ef4" name="Take Aim (old)" hidden="false" page="0">
-      <description>Hits on Target as well as Symbol when using Ranged weapons to make a Sustained Attack. Does not apply to Units Joined.</description>
-      <modifiers/>
-    </rule>
-    <rule id="918b378a-b007-70e3-827f-bf70dda59ba2" name="Tank Head (old)" hidden="false" page="0">
-      <description>Perform a Tank Head Action to roll five dice. Cancel one point of damage on piloted or adjacent vehicle for each Symbol or Shield rolled. Does not apply to Units Joined.</description>
-      <modifiers/>
-    </rule>
     <rule id="0d3649aa-166c-9d22-1a67-daf31b6c2c52" name="Tracked" hidden="false" page="0">
       <description>Can be affected by type of Terrain crossed. (See Terrain Table)</description>
       <modifiers/>
@@ -5427,16 +5417,8 @@
       <description>Can Move through enemy Units. Applies to Units Joined.</description>
       <modifiers/>
     </rule>
-    <rule id="7b9e-2f4d-3ce4-c34b" name="USMC (old)" hidden="false">
-      <description>Faction - If the whole army is composed by units of the same faction, the army get a special bonus (reserved for future development)</description>
-      <modifiers/>
-    </rule>
     <rule id="2054be91-c788-30d1-3ce9-7ebfe835f4fb" name="Volley" hidden="false" page="0">
       <description>Weapon may fire all remaining ammunition at the same target in a Single Attack or Sustained Attack Action.</description>
-      <modifiers/>
-    </rule>
-    <rule id="c66c5d67-3be1-e71e-4227-bfb9cfd99d8e" name="Wheeled (old)" hidden="false" page="0">
-      <description>Roll when moving through Terrain, halting on a score of Target or Shield.</description>
       <modifiers/>
     </rule>
   </sharedRules>
