@@ -2082,21 +2082,56 @@
           </links>
         </entry>
       </entries>
-      <entryGroups/>
+      <entryGroups>
+        <entryGroup id="f84e-3b26-a35f-3ce9" name="Heinrich Tropical" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="afd8-7975-a5b6-2346" name="Heinrich Tropical (NDAK)" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="b4d4-6b6d-bbba-2223" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Heinrich Tropical" hidden="false" page="0">
+                  <characteristics>
+                    <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
+                    <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
+                    <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+                    <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
+                    <characteristic characteristicId="fbc5-7d00-f9de-443e" name="Faction" value="NDAK"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="dc0c-9580-ba63-bcae" name="Heinrich Tropical (Blutkreuz)" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="c729-4d08-89aa-ecb1" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Heinrich Tropical" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
+                    <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
+                    <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
+                    <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
+                    <characteristic characteristicId="fbc5-7d00-f9de-443e" name="Faction" value="Blutkreuz"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+      </entryGroups>
       <modifiers/>
       <rules/>
-      <profiles>
-        <profile id="9de4f6e7-5a04-99b8-c188-b2cdd29f9cc1" profileTypeId="d4bd9345-c104-05b5-dba6-bf84d1163625" name="Heinrich Tropical" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="ed36b802-b164-ae0b-b441-ebb8e45606b6" name="Damage Track" value="4"/>
-            <characteristic characteristicId="8b340ad2-9af2-327e-d1ca-675097d3b3c5" name="Move" value="2"/>
-            <characteristic characteristicId="7efff746-66c0-c275-304c-6339ff7da914" name="March Move" value="4"/>
-            <characteristic characteristicId="214b6458-e958-a048-8f8c-de17188dae7b" name="Armour" value="V3"/>
-            <characteristic characteristicId="fbc5-7d00-f9de-443e" name="Faction" value="NDAK"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
+      <profiles/>
       <links>
         <link id="4d38815e-d8a6-6e6f-ba87-f90fb7e45630" targetId="976e-03c9-a0c8-c5cc" linkType="rule">
           <modifiers/>
@@ -2325,7 +2360,7 @@
         </entry>
       </entries>
       <entryGroups>
-        <entryGroup id="4cbe-d658-052e-4a6c" name="Jagdluther" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="4cbe-d658-052e-4a6c" name="Jagdluther" defaultEntryId="90a7-243f-621e-96af" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
             <entry id="90a7-243f-621e-96af" name="Jagdluther" points="0.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
