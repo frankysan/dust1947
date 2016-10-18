@@ -1784,7 +1784,7 @@
     </entry>
     <entry id="adc3-41b5-41ce-6d18" name="Nadya" points="8.0" categoryId="fbe52e4c-73ad-7aa5-3eb1-4f1114307d27" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
-        <entry id="b405-7c90-656c-0456" name="Dual Heavy Flamethrowers (Front)" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+        <entry id="b405-7c90-656c-0456" name="Dual Heavy Flamethrower (Front)" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -5190,7 +5190,7 @@
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="2ceb-f3a8-6936-c948" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Dual Heavy Flamethrowers (Front)" hidden="false">
+    <profile id="2ceb-f3a8-6936-c948" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Dual Heavy Flamethrower (Front)" hidden="false">
       <characteristics>
         <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
         <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="2"/>
@@ -5567,7 +5567,7 @@
     <profile id="3ad6-9fc7-04a2-27d0" profileTypeId="51c4cbbb-feba-838a-7356-102e85a51f40" name="Heavy Machinegun (Front)" hidden="false">
       <characteristics>
         <characteristic characteristicId="99494c30-5918-3c34-1ea8-5fd2a3a35acb" name="Mount" value="Front"/>
-        <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value=""/>
+        <characteristic characteristicId="426f1c91-a24f-c1e2-6c5d-0b056331dce9" name="Range" value="6"/>
         <characteristic characteristicId="94a02cd9-1473-5a5f-cddd-481f20e61e6e" name="S1" value="5/1"/>
         <characteristic characteristicId="a645204b-207d-2884-31bf-8052544ebe0f" name="S2" value="5/1"/>
         <characteristic characteristicId="144e20c5-fee5-87da-d142-43ee6b13d299" name="S3" value="4/1"/>

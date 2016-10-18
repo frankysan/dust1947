@@ -5306,7 +5306,7 @@
       <modifiers/>
     </rule>
     <rule id="0f5c-d2e7-de5a-f73e" name="Huge Vehicle" hidden="false">
-      <description>(enter description)</description>
+      <description></description>
       <modifiers/>
     </rule>
     <rule id="fa85e34f-0a5f-3106-0fa5-892356037a48" name="Infantry Ace" hidden="false" page="0">
@@ -5318,7 +5318,7 @@
       <modifiers/>
     </rule>
     <rule id="a33c-fb4d-3dd6-b9ee" name="Large Vehicle" hidden="false">
-      <description>(enter description)</description>
+      <description></description>
       <modifiers/>
     </rule>
     <rule id="179df050-39d9-27bf-f8f5-2a45e8b4de4d" name="Loner" hidden="false" page="0">
